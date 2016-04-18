@@ -1,0 +1,1257 @@
+SDATE	STATION	IDEPTH	Chl_a_ugl	Comment_txt	sampling_method	year	week	source
+1/22/2003	B1	0-20	0.21		hose	2003	4	Helena Höglander
+2/18/2003	B1	0-20	0.28		hose	2003	8	Helena Höglander
+3/10/2003	B1	0-20	1.47		hose	2003	11	Helena Höglander
+3/25/2003	B1	0-20	6.37		hose	2003	13	Helena Höglander
+4/1/2003	B1	0-20	4.22		hose	2003	14	Helena Höglander
+4/8/2003	B1	0-20	5.65		hose	2003	15	Helena Höglander
+4/15/2003	B1	0-20	1.94		hose	2003	16	Helena Höglander
+4/22/2003	B1	0-20	0.82		hose	2003	17	Helena Höglander
+5/7/2003	B1	0-20	1.29		hose	2003	19	Helena Höglander
+5/20/2003	B1	0-20	0.6		hose	2003	21	Helena Höglander
+6/3/2003	B1	0-20	0.71		hose	2003	23	Helena Höglander
+6/17/2003	B1	0-20	0.58		hose	2003	25	Helena Höglander
+7/1/2003	B1	0-20	2.42		hose	2003	27	Helena Höglander
+7/15/2003	B1	0-20	1.61		hose	2003	29	Helena Höglander
+7/29/2003	B1	0-20	2.08		hose	2003	31	Helena Höglander
+8/12/2003	B1	0-20	2.95		hose	2003	33	Helena Höglander
+8/26/2003	B1	0-20	1.61		hose	2003	35	Helena Höglander
+9/9/2003	B1	0-20	1.8		hose	2003	37	Helena Höglander
+9/29/2003	B1	0-20	0.77		hose	2003	40	Helena Höglander
+10/9/2003	B1	0-20	2.6		hose	2003	41	Helena Höglander
+10/21/2003	B1	0-20	1.75		hose	2003	43	Helena Höglander
+11/11/2003	B1	0-20	0.95		hose	2003	46	Helena Höglander
+12/16/2003	B1	0-20	0.35		hose	2003	51	Helena Höglander
+1/29/2004	B1	0-20	0.31		hose	2004	5	Helena Höglander
+2/17/2004	B1	0-20	0.37		hose	2004	8	Helena Höglander
+3/9/2004	B1	0-20	0.68		hose	2004	11	Helena Höglander
+3/23/2004	B1	0-20	2.13		hose	2004	13	Helena Höglander
+4/1/2004	B1	0-20	5.97		hose	2004	14	Helena Höglander
+4/5/2004	B1	0-20	4.66		hose	2004	15	Helena Höglander
+4/13/2004	B1	0-20	1.68		hose	2004	16	Helena Höglander
+4/22/2004	B1	0-20	2.63		hose	2004	17	Helena Höglander
+5/3/2004	B1	0-20	2.04		hose	2004	19	Helena Höglander
+5/25/2004	B1	0-20	1.69		hose	2004	22	Helena Höglander
+6/1/2004	B1	0-20	1.43		hose	2004	23	Helena Höglander
+6/15/2004	B1	0-20	1.48		hose	2004	25	Helena Höglander
+6/29/2004	B1	0-20	2.39		hose	2004	27	Helena Höglander
+7/13/2004	B1	0-20	2.02		hose	2004	29	Helena Höglander
+7/29/2004	B1	0-20	1.28		hose	2004	31	Helena Höglander
+8/10/2004	B1	0-20	2.5		hose	2004	33	Helena Höglander
+8/23/2004	B1	0-20	0.92		hose	2004	35	Helena Höglander
+9/7/2004	B1	0-20	1.61		hose	2004	37	Helena Höglander
+9/23/2004	B1	0-20	0.84		hose	2004	39	Helena Höglander
+10/5/2004	B1	0-20	1.67		hose	2004	41	Helena Höglander
+10/19/2004	B1	0-20	1.05		hose	2004	43	Helena Höglander
+11/9/2004	B1	0-20	0.82		hose	2004	46	Helena Höglander
+12/14/2004	B1	0-20	0.86		hose	2004	51	Helena Höglander
+1/25/2005	B1	0-20	0.34		hose	2005	5	Helena Höglander
+2/15/2005	B1	0-20	1.52		hose	2005	8	Helena Höglander
+3/17/2005	B1	0-20	4.11		hose	2005	12	Helena Höglander
+3/29/2005	B1	0-20	4.45		hose	2005	14	Helena Höglander
+4/5/2005	B1	0-20	2.67		hose	2005	15	Helena Höglander
+4/12/2005	B1	0-20	2.17		hose	2005	16	Helena Höglander
+4/19/2005	B1	0-20	1.89		hose	2005	17	Helena Höglander
+4/26/2005	B1	0-20	1.94		hose	2005	18	Helena Höglander
+5/10/2005	B1	0-20	1.65		hose	2005	20	Helena Höglander
+5/24/2005	B1	0-20	1.49		hose	2005	22	Helena Höglander
+6/7/2005	B1	0-20	1.79		hose	2005	24	Helena Höglander
+6/20/2005	B1	0-20	1.86		hose	2005	26	Helena Höglander
+7/5/2005	B1	0-20	2.54		hose	2005	28	Helena Höglander
+7/20/2005	B1	0-20	3.56		hose	2005	30	Helena Höglander
+8/2/2005	B1	0-20	1.77		hose	2005	32	Helena Höglander
+8/17/2005	B1	0-20	1.77		hose	2005	34	Helena Höglander
+8/30/2005	B1	0-20	1.2		hose	2005	36	Helena Höglander
+9/13/2005	B1	0-20	1		hose	2005	38	Helena Höglander
+9/27/2005	B1	0-20	1.3		hose	2005	40	Helena Höglander
+10/11/2005	B1	0-20	0.79		hose	2005	42	Helena Höglander
+10/26/2005	B1	0-20	1.6		hose	2005	44	Helena Höglander
+11/16/2005	B1	0-20	0.57		hose	2005	47	Helena Höglander
+12/13/2005	B1	0-20	0.6		hose	2005	51	Helena Höglander
+1/17/2006	B1	0-20	0.26		hose	2006	3	Helena Höglander
+2/14/2006	B1	0-20	0.24		hose	2006	7	Helena Höglander
+3/14/2006	B1	0-20	0.78		hose	2006	11	Helena Höglander
+3/30/2006	B1	0-14	3.06	OBS! 0-14m Hose	hose	2006	13	Helena Höglander
+4/4/2006	B1	0-20	4.39		hose	2006	14	Helena Höglander
+4/10/2006	B1	0-20	4.02		hose	2006	15	Helena Höglander
+4/18/2006	B1	0-20	2.89		hose	2006	16	Helena Höglander
+4/25/2006	B1	0-20	1.18		hose	2006	17	Helena Höglander
+5/9/2006	B1	0-20	2.53		hose	2006	19	Helena Höglander
+5/22/2006	B1	0-20	1.97		hose	2006	21	Helena Höglander
+6/7/2006	B1	0-20	1.27		hose	2006	23	Helena Höglander
+6/20/2006	B1	0-20	1.41		hose	2006	25	Helena Höglander
+7/4/2006	B1	0-20	1.74		hose	2006	27	Helena Höglander
+7/17/2006	B1	0-20	1.53		hose	2006	29	Helena Höglander
+8/1/2006	B1	0-20	2.88		hose	2006	31	Helena Höglander
+8/17/2006	B1	0-20	2.89		hose	2006	33	Helena Höglander
+8/29/2006	B1	0-20	1.59		hose	2006	35	Helena Höglander
+9/12/2006	B1	0-20	1.38		hose	2006	37	Helena Höglander
+9/26/2006	B1	0-20	1.77		hose	2006	39	Helena Höglander
+10/10/2006	B1	0-20	0.96		hose	2006	41	Helena Höglander
+10/25/2006	B1	0-20	0.82		hose	2006	43	Helena Höglander
+11/7/2006	B1	0-20	0.58		hose	2006	45	Helena Höglander
+12/18/2006	B1	0-20	0.21		hose	2006	51	Helena Höglander
+1/17/2007	B1	0-20	0.35		hose	2007	3	Helena Höglander
+2/14/2007	B1	0-20	0.54		hose	2007	7	Helena Höglander
+3/12/2007	B1	0-20	0.6		hose	2007	11	Helena Höglander
+3/26/2007	B1	0-20	0.64		hose	2007	13	Helena Höglander
+4/2/2007	B1	0-20	5.56		hose	2007	14	Helena Höglander
+4/10/2007	B1	0-20	2.4		hose	2007	15	Helena Höglander
+4/17/2007	B1	0-20	1.04		hose	2007	16	Helena Höglander
+4/24/2007	B1	0-20	1.93		hose	2007	17	Helena Höglander
+5/3/2007	B1	0-20	1.27		hose	2007	18	Helena Höglander
+5/9/2007	B1	0-20	1.22		hose	2007	19	Helena Höglander
+5/22/2007	B1	0-20	0.66		hose	2007	21	Helena Höglander
+6/4/2007	B1	0-20	1.08		hose	2007	23	Helena Höglander
+6/18/2007	B1	0-20	1.73		hose	2007	25	Helena Höglander
+7/3/2007	B1	0-20	3.4		hose	2007	27	Helena Höglander
+7/19/2007	B1	0-20	1.66		hose	2007	29	Helena Höglander
+7/31/2007	B1	0-20	0.67		hose	2007	31	Helena Höglander
+8/14/2007	B1	0-20	2.06		hose	2007	33	Helena Höglander
+8/28/2007	B1	0-20	1.2		hose	2007	35	Helena Höglander
+9/11/2007	B1	0-20	2.12		hose	2007	37	Helena Höglander
+9/25/2007	B1	0-20	1.05		hose	2007	39	Helena Höglander
+10/11/2007	B1	0-20	2.25		hose	2007	41	Helena Höglander
+10/23/2007	B1	0-20	2.78		hose	2007	43	Helena Höglander
+11/7/2007	B1	0-20	2.22		hose	2007	45	Helena Höglander
+12/11/2007	B1	0-20	2.53		hose	2007	50	Helena Höglander
+1/21/2008	B1	0-20	1.64		hose	2008	4	Helena Höglander
+2/12/2008	B1	0-20	1.44		hose	2008	7	Helena Höglander
+3/11/2008	B1	0-20	3.48		hose	2008	11	Helena Höglander
+3/26/2008	B1	0-20	5.13		hose	2008	13	Helena Höglander
+4/1/2008	B1	0-20	3.19		hose	2008	14	Helena Höglander
+4/8/2008	B1	0-20	1.88		hose	2008	15	Helena Höglander
+4/15/2008	B1	0-20	3.42		hose	2008	16	Helena Höglander
+4/22/2008	B1	0-20	2.1		hose	2008	17	Helena Höglander
+5/7/2008	B1	0-20	1.79		hose	2008	19	Helena Höglander
+5/22/2008	B1	0-20	2.77		hose	2008	21	Helena Höglander
+6/2/2008	B1	0-20	3.3		hose	2008	23	Helena Höglander
+6/16/2008	B1	0-20	2.31		hose	2008	25	Helena Höglander
+7/1/2008	B1	0-20	2.8		hose	2008	27	Helena Höglander
+7/15/2008	B1	0-20	2.18		hose	2008	29	Helena Höglander
+7/29/2008	B1	0-20	3.4		hose	2008	31	Helena Höglander
+8/12/2008	B1	0-20	4.08		hose	2008	33	Helena Höglander
+8/26/2008	B1	0-20	2.43		hose	2008	35	Helena Höglander
+9/11/2008	B1	0-20	2.45		hose	2008	37	Helena Höglander
+9/23/2008	B1	0-20	3.46		hose	2008	39	Helena Höglander
+10/7/2008	B1	0-20	2.44		hose	2008	41	Helena Höglander
+10/29/2008	B1	0-20	0.93		hose	2008	44	Helena Höglander
+11/19/2008	B1	0-20	2.95		hose	2008	47	Helena Höglander
+12/16/2008	B1	0-20	0.8		hose	2008	51	Helena Höglander
+1/15/2009	B1	0-20	0.27		hose	2009	3	Helena Höglander
+2/17/2009	B1	0-20	0.48		hose	2009	8	Helena Höglander
+3/9/2009	B1	0-20	0.62		hose	2009	11	Helena Höglander
+3/24/2009	B1	0-20	1.79		hose	2009	13	Helena Höglander
+4/2/2009	B1	0-20	4.89		hose	2009	14	Helena Höglander
+4/6/2009	B1	0-20	5.79		hose	2009	15	Helena Höglander
+4/14/2009	B1	0-20	3.78		hose	2009	16	Helena Höglander
+4/21/2009	B1	0-20	2.14		hose	2009	17	Helena Höglander
+5/6/2009	B1	0-20	1.56		hose	2009	19	Helena Höglander
+5/18/2009	B1	0-20	1.44		hose	2009	21	Helena Höglander
+6/2/2009	B1	0-20	1.29		hose	2009	23	Helena Höglander
+6/22/2009	B1	0-20	2.56		hose	2009	26	Helena Höglander
+6/30/2009	B1	0-20	4.34		hose	2009	27	Helena Höglander
+7/14/2009	B1	0-20	2.21		hose	2009	29	Helena Höglander
+7/23/2009	B1	0-20	1.42		hose	2009	30	Helena Höglander
+8/11/2009	B1	0-20	2.88		hose	2009	33	Helena Höglander
+8/25/2009	B1	0-20	1.2		hose	2009	35	Helena Höglander
+9/7/2009	B1	0-20	0.85		hose	2009	37	Helena Höglander
+9/30/2009	B1	0-20	0.4		hose	2009	40	Helena Höglander
+10/13/2009	B1	0-20	1.39		hose	2009	42	Helena Höglander
+10/21/2009	B1	0-20	2.86		hose	2009	43	Helena Höglander
+11/12/2009	B1	0-20	1.39		hose	2009	46	Helena Höglander
+12/8/2009	B1	0-20	0.66		hose	2009	50	Helena Höglander
+1/19/2010	B1	0-20	0.47		hose	2010	4	Helena Höglander
+3/4/2010	B1	0-20	0.58		hose	2010	10	Helena Höglander
+3/15/2010	B1	0-20	0.47		hose	2010	12	Helena Höglander
+3/24/2010	B1	0-20	1.09		hose	2010	13	Helena Höglander
+4/6/2010	B1	0-20	10.52		hose	2010	15	Helena Höglander
+4/12/2010	B1	0-20	6.31		hose	2010	16	Helena Höglander
+4/19/2010	B1	0-20	5.57		hose	2010	17	Helena Höglander
+4/26/2010	B1	0-20	2.36		hose	2010	18	Helena Höglander
+5/4/2010	B1	0-20	2.13		hose	2010	19	Helena Höglander
+5/11/2010	B1	0-20	2.01		hose	2010	20	Helena Höglander
+5/26/2010	B1	0-20	2.04		hose	2010	22	Helena Höglander
+6/8/2010	B1	0-20	2		hose	2010	24	Helena Höglander
+6/21/2010	B1	0-20	1		hose	2010	26	Helena Höglander
+7/6/2010	B1	0-20	2.12		hose	2010	28	Helena Höglander
+7/15/2010	B1	0-20	2.77		hose	2010	29	Helena Höglander
+8/3/2010	B1	0-20	2.01		hose	2010	32	Helena Höglander
+8/17/2010	B1	0-20	4.12		hose	2010	34	Helena Höglander
+8/30/2010	B1	0-20	2.45		hose	2010	36	Helena Höglander
+9/14/2010	B1	0-20	2.41		hose	2010	38	Helena Höglander
+9/28/2010	B1	0-20	2.29		hose	2010	40	Helena Höglander
+10/12/2010	B1	0-20	1.19		hose	2010	42	Helena Höglander
+10/25/2010	B1	0-20	1.29		hose	2010	44	Helena Höglander
+11/16/2010	B1	0-20	0.83		hose	2010	47	Helena Höglander
+12/7/2010	B1	0-20	0.56		hose	2010	50	Helena Höglander
+1/19/2011	B1	0-20	0.27		hose	2011	4	Helena Höglander
+2/28/2011	B1	0-20	0.6		hose	2011	10	Helena Höglander
+3/14/2011	B1	0-20	0.84		hose	2011	12	Helena Höglander
+3/28/2011	B1	0-20	2.86		hose	2011	14	Helena Höglander
+4/4/2011	B1	0-20	6.53		hose	2011	15	Helena Höglander
+4/12/2011	B1	0-20	6.16		hose	2011	16	Helena Höglander
+4/18/2011	B1	0-20	3.87		hose	2011	17	Helena Höglander
+4/26/2011	B1	0-20	1.91		hose	2011	18	Helena Höglander
+5/3/2011	B1	0-20	1.71		hose	2011	19	Helena Höglander
+5/11/2011	B1	0-20	1.63		hose	2011	20	Helena Höglander
+5/24/2011	B1	0-20	1.45		hose	2011	22	Helena Höglander
+6/7/2011	B1	0-20	0.66		hose	2011	24	Helena Höglander
+6/20/2011	B1	0-20	1.31		hose	2011	26	Helena Höglander
+7/5/2011	B1	0-20	2.2		hose	2011	28	Helena Höglander
+7/18/2011	B1	0-20	3.29		hose	2011	30	Helena Höglander
+8/2/2011	B1	0-20	3.63		hose	2011	32	Helena Höglander
+8/16/2011	B1	0-20	3.36		hose	2011	34	Helena Höglander
+8/30/2011	B1	0-20	1.66		hose	2011	36	Helena Höglander
+9/15/2011	B1	0-20	1.23		hose	2011	38	Helena Höglander
+9/27/2011	B1	0-20	1.23		hose	2011	40	Helena Höglander
+10/11/2011	B1	0-20	0.79		hose	2011	42	Helena Höglander
+10/25/2011	B1	0-20	1.02		hose	2011	44	Helena Höglander
+11/22/2011	B1	0-20	1.9		hose	2011	48	Helena Höglander
+12/19/2011	B1	0-20	0.48		hose	2011	52	Helena Höglander
+1/22/2003	H3	0-14	0.62		hose	2003	4	Helena Höglander
+3/25/2003	H3	0-14	7.22		hose	2003	13	Helena Höglander
+4/1/2003	H3	0-14	8.23		hose	2003	14	Helena Höglander
+4/8/2003	H3	0-14	6.72		hose	2003	15	Helena Höglander
+4/15/2003	H3	0-14	4.97		hose	2003	16	Helena Höglander
+4/22/2003	H3	0-14	2.18		hose	2003	17	Helena Höglander
+5/7/2003	H3	0-14	1.67		hose	2003	19	Helena Höglander
+5/20/2003	H3	0-14	0.8		hose	2003	21	Helena Höglander
+6/3/2003	H3	0-14	0.99		hose	2003	23	Helena Höglander
+6/17/2003	H3	0-14	1.63		hose	2003	25	Helena Höglander
+7/1/2003	H3	0-14	2.04		hose	2003	27	Helena Höglander
+7/15/2003	H3	0-14	1.86		hose	2003	29	Helena Höglander
+7/29/2003	H3	0-14	2.11		hose	2003	31	Helena Höglander
+8/12/2003	H3	0-14	2.09		hose	2003	33	Helena Höglander
+8/26/2003	H3	0-14	1.74		hose	2003	35	Helena Höglander
+9/9/2003	H3	0-14	3.58		hose	2003	37	Helena Höglander
+9/23/2003	H3	0-14	3.44		hose	2003	39	Helena Höglander
+10/9/2003	H3	0-14	3.57		hose	2003	41	Helena Höglander
+10/21/2003	H3	0-14	4.01		hose	2003	43	Helena Höglander
+11/11/2003	H3	0-14	2.81		hose	2003	46	Helena Höglander
+12/16/2003	H3	0-14	0.99		hose	2003	51	Helena Höglander
+1/29/2004	H3	0-14	0.72		hose	2004	5	Helena Höglander
+2/17/2004	H3	0-14	0.75		hose	2004	8	Helena Höglander
+3/9/2004	H3	0-14	1.12		hose	2004	11	Helena Höglander
+3/23/2004	H3	0-14	2.9		hose	2004	13	Helena Höglander
+4/1/2004	H3	0-14	6.39		hose	2004	14	Helena Höglander
+4/5/2004	H3	0-14	9.22		hose	2004	15	Helena Höglander
+4/13/2004	H3	0-14	4.94		hose	2004	16	Helena Höglander
+4/22/2004	H3	0-14	2.99		hose	2004	17	Helena Höglander
+5/3/2004	H3	0-14	1.99		hose	2004	19	Helena Höglander
+5/25/2004	H3	0-14	2.07		hose	2004	22	Helena Höglander
+6/8/2004	H3	0-14	1.82		hose	2004	24	Helena Höglander
+6/15/2004	H3	0-14	2.41		hose	2004	25	Helena Höglander
+6/29/2004	H3	0-14	3.07		hose	2004	27	Helena Höglander
+7/13/2004	H3	0-14	2.09		hose	2004	29	Helena Höglander
+7/29/2004	H3	0-14	2.85		hose	2004	31	Helena Höglander
+8/10/2004	H3	0-14	4.37		hose	2004	33	Helena Höglander
+8/23/2004	H3	0-14	4.36		hose	2004	35	Helena Höglander
+9/7/2004	H3	0-14	3.04		hose	2004	37	Helena Höglander
+9/23/2004	H3	0-14	1.91		hose	2004	39	Helena Höglander
+10/5/2004	H3	0-14	3.23		hose	2004	41	Helena Höglander
+10/19/2004	H3	0-14	4.86		hose	2004	43	Helena Höglander
+11/9/2004	H3	0-14	4.27		hose	2004	46	Helena Höglander
+12/14/2004	H3	0-14	7.09		hose	2004	51	Helena Höglander
+1/25/2005	H3	0-14	2.14		hose	2005	5	Helena Höglander
+2/15/2005	H3	0-14	4.8		hose	2005	8	Helena Höglander
+3/17/2005	H3	0-14	10.23		hose	2005	12	Helena Höglander
+3/29/2005	H3	0-14	6.03		hose	2005	14	Helena Höglander
+4/5/2005	H3	0-14	3.7		hose	2005	15	Helena Höglander
+4/12/2005	H3	0-14	4.77		hose	2005	16	Helena Höglander
+4/19/2005	H3	0-14	4.3		hose	2005	17	Helena Höglander
+4/26/2005	H3	0-14	5.66		hose	2005	18	Helena Höglander
+5/10/2005	H3	0-14	3.88		hose	2005	20	Helena Höglander
+5/24/2005	H3	0-14	2.26		hose	2005	22	Helena Höglander
+6/7/2005	H3	0-14	3.01		hose	2005	24	Helena Höglander
+6/20/2005	H3	0-14	3.4		hose	2005	26	Helena Höglander
+7/5/2005	H3	0-14	3.09		hose	2005	28	Helena Höglander
+7/20/2005	H3	0-14	2.77		hose	2005	30	Helena Höglander
+8/2/2005	H3	0-14	2.58		hose	2005	32	Helena Höglander
+8/17/2005	H3	0-14	3.18		hose	2005	34	Helena Höglander
+8/30/2005	H3	0-14	2.98		hose	2005	36	Helena Höglander
+9/13/2005	H3	0-14	2.13		hose	2005	38	Helena Höglander
+9/27/2005	H3	0-14	2.77		hose	2005	40	Helena Höglander
+10/11/2005	H3	0-14	2.41		hose	2005	42	Helena Höglander
+10/26/2005	H3	0-14	2.04		hose	2005	44	Helena Höglander
+11/16/2005	H3	0-14	1.8		hose	2005	47	Helena Höglander
+12/13/2005	H3	0-14	1.75		hose	2005	51	Helena Höglander
+1/17/2006	H3	0-14	0.71		hose	2006	3	Helena Höglander
+2/14/2006	H3	0-14	0.69		hose	2006	7	Helena Höglander
+3/30/2006	H3	0-14	3.26		hose	2006	13	Helena Höglander
+4/4/2006	H3	0-14	7.53		hose	2006	14	Helena Höglander
+4/10/2006	H3	0-14	12.24		hose	2006	15	Helena Höglander
+4/18/2006	H3	0-14	8.13		hose	2006	16	Helena Höglander
+4/25/2006	H3	0-14	5.84		hose	2006	17	Helena Höglander
+5/9/2006	H3	0-14	3.59		hose	2006	19	Helena Höglander
+5/22/2006	H3	0-14	2.01		hose	2006	21	Helena Höglander
+6/7/2006	H3	0-14	1.64		hose	2006	23	Helena Höglander
+6/20/2006	H3	0-14	2.8		hose	2006	25	Helena Höglander
+7/4/2006	H3	0-14	2.81		hose	2006	27	Helena Höglander
+7/17/2006	H3	0-14	2.05		hose	2006	29	Helena Höglander
+8/1/2006	H3	0-14	4.59		hose	2006	31	Helena Höglander
+8/18/2006	H3	0-14	2.95		hose	2006	33	Helena Höglander
+8/29/2006	H3	0-14	4.15		hose	2006	35	Helena Höglander
+9/12/2006	H3	0-14	3.54		hose	2006	37	Helena Höglander
+9/26/2006	H3	0-14	2.54		hose	2006	39	Helena Höglander
+10/10/2006	H3	0-14	2.52		hose	2006	41	Helena Höglander
+10/25/2006	H3	0-14	NA	Sample missing	hose	2006	43	Helena Höglander
+11/7/2006	H3	0-14	0.91		hose	2006	45	Helena Höglander
+12/18/2006	H3	0-14	0.9		hose	2006	51	Helena Höglander
+1/17/2007	H3	0-14	0.68		hose	2007	3	Helena Höglander
+2/13/2007	H3	0-14	0.79		hose	2007	7	Helena Höglander
+3/13/2007	H3	0-14	1.67		hose	2007	11	Helena Höglander
+3/27/2007	H3	0-14	1.67		hose	2007	13	Helena Höglander
+4/2/2007	H3	0-14	2.74		hose	2007	14	Helena Höglander
+4/10/2007	H3	0-14	6.64		hose	2007	15	Helena Höglander
+4/17/2007	H3	0-14	12.51		hose	2007	16	Helena Höglander
+4/24/2007	H3	0-14	10.43		hose	2007	17	Helena Höglander
+5/3/2007	H3	0-14	3.74		hose	2007	18	Helena Höglander
+5/9/2007	H3	0-14	2.84		hose	2007	19	Helena Höglander
+5/22/2007	H3	0-14	1.61		hose	2007	21	Helena Höglander
+6/4/2007	H3	0-14	3.11		hose	2007	23	Helena Höglander
+6/18/2007	H3	0-14	3.67		hose	2007	25	Helena Höglander
+7/3/2007	H3	0-14	4.01		hose	2007	27	Helena Höglander
+7/19/2007	H3	0-14	3.5		hose	2007	29	Helena Höglander
+7/31/2007	H3	0-14	3.1		hose	2007	31	Helena Höglander
+8/14/2007	H3	0-14	3.69		hose	2007	33	Helena Höglander
+8/28/2007	H3	0-14	2.72		hose	2007	35	Helena Höglander
+9/11/2007	H3	0-14	4.9		hose	2007	37	Helena Höglander
+9/25/2007	H3	0-14	2.07		hose	2007	39	Helena Höglander
+10/11/2007	H3	0-14	4		hose	2007	41	Helena Höglander
+10/23/2007	H3	0-14	5.74		hose	2007	43	Helena Höglander
+11/6/2007	H3	0-14	2.42		hose	2007	45	Helena Höglander
+12/12/2007	H3	0-14	1.56		hose	2007	50	Helena Höglander
+1/22/2008	H3	0-14	1.23		hose	2008	4	Helena Höglander
+2/13/2008	H3	0-14	1.27		hose	2008	7	Helena Höglander
+3/10/2008	H3	0-14	2.02		hose	2008	11	Helena Höglander
+3/25/2008	H3	0-14	6.87		hose	2008	13	Helena Höglander
+4/1/2008	H3	0-14	8.43		hose	2008	14	Helena Höglander
+4/8/2008	H3	0-14	6.6		hose	2008	15	Helena Höglander
+4/15/2008	H3	0-14	4.05		hose	2008	16	Helena Höglander
+4/22/2008	H3	0-14	4.64		hose	2008	17	Helena Höglander
+5/7/2008	H3	0-14	3.7		hose	2008	19	Helena Höglander
+5/22/2008	H3	0-14	5.96		hose	2008	21	Helena Höglander
+6/2/2008	H3	0-14	6.04		hose	2008	23	Helena Höglander
+6/16/2008	H3	0-14	3.8		hose	2008	25	Helena Höglander
+7/1/2008	H3	0-14	3.03		hose	2008	27	Helena Höglander
+7/15/2008	H3	0-14	5.2		hose	2008	29	Helena Höglander
+7/29/2008	H3	0-14	3.79		hose	2008	31	Helena Höglander
+8/12/2008	H3	0-14	2.94		hose	2008	33	Helena Höglander
+8/26/2008	H3	0-14	5.35		hose	2008	35	Helena Höglander
+9/9/2008	H3	0-14	4.5		hose	2008	37	Helena Höglander
+9/23/2008	H3	0-14	2.62		hose	2008	39	Helena Höglander
+10/7/2008	H3	0-14	6.42		hose	2008	41	Helena Höglander
+10/28/2008	H3	0-14	5.78		hose	2008	44	Helena Höglander
+11/20/2008	H3	0-14	1.95		hose	2008	47	Helena Höglander
+12/16/2008	H3	0-14	1.42		hose	2008	51	Helena Höglander
+1/14/2009	H3	0-14	0.84		hose	2009	3	Helena Höglander
+2/18/2009	H3	0-14	0.87		hose	2009	8	Helena Höglander
+3/10/2009	H3	0-14	1.39		hose	2009	11	Helena Höglander
+3/23/2009	H3	0-14	2.83		hose	2009	13	Helena Höglander
+3/31/2009	H3	0-14	5.01		hose	2009	14	Helena Höglander
+4/6/2009	H3	0-14	6.91		hose	2009	15	Helena Höglander
+4/14/2009	H3	0-14	11.39		hose	2009	16	Helena Höglander
+4/21/2009	H3	0-14	5.43		hose	2009	17	Helena Höglander
+4/28/2009	H3	0-14	3.56		hose	2009	18	Helena Höglander
+5/7/2009	H3	0-14	3.23		hose	2009	19	Helena Höglander
+5/18/2009	H3	0-14	2.39		hose	2009	21	Helena Höglander
+6/2/2009	H3	0-14	3.07		hose	2009	23	Helena Höglander
+6/15/2009	H3	0-14	2.49		hose	2009	25	Helena Höglander
+6/30/2009	H3	0-14	4.26		hose	2009	27	Helena Höglander
+7/14/2009	H3	0-14	5.37		hose	2009	29	Helena Höglander
+7/23/2009	H3	0-14	3.13		hose	2009	30	Helena Höglander
+8/11/2009	H3	0-14	4.29		hose	2009	33	Helena Höglander
+8/25/2009	H3	0-14	2.98		hose	2009	35	Helena Höglander
+9/7/2009	H3	0-14	2.41		hose	2009	37	Helena Höglander
+9/22/2009	H3	0-14	1.92		hose	2009	39	Helena Höglander
+10/13/2009	H3	0-14	1.37		hose	2009	42	Helena Höglander
+10/21/2009	H3	0-14	2.65		hose	2009	43	Helena Höglander
+11/11/2009	H3	0-14	2.02		hose	2009	46	Helena Höglander
+12/9/2009	H3	0-14	1.39		hose	2009	50	Helena Höglander
+2/16/2010	H3	0-14	0.5		hose	2010	8	Helena Höglander
+3/2/2010	H3	0-14	0.23		hose	2010	10	Helena Höglander
+3/15/2010	H3	0-14	0.62		hose	2010	12	Helena Höglander
+3/24/2010	H3	0-14	1.27		hose	2010	13	Helena Höglander
+4/8/2010	H3	0-14	9.76		hose	2010	15	Helena Höglander
+4/12/2010	H3	0-14	9.67		hose	2010	16	Helena Höglander
+4/19/2010	H3	0-14	14.66		hose	2010	17	Helena Höglander
+4/26/2010	H3	0-14	9.61		hose	2010	18	Helena Höglander
+5/4/2010	H3	0-14	3.37		hose	2010	19	Helena Höglander
+5/11/2010	H3	0-14	5.72		hose	2010	20	Helena Höglander
+5/26/2010	H3	0-14	1.92		hose	2010	22	Helena Höglander
+6/8/2010	H3	0-14	1.76		hose	2010	24	Helena Höglander
+6/21/2010	H3	0-14	2.52		hose	2010	26	Helena Höglander
+7/6/2010	H3	0-14	3.54		hose	2010	28	Helena Höglander
+7/15/2010	H3	0-14	2.83		hose	2010	29	Helena Höglander
+8/3/2010	H3	0-14	4.09		hose	2010	32	Helena Höglander
+8/17/2010	H3	0-14	3.72		hose	2010	34	Helena Höglander
+8/30/2010	H3	0-14	2.53		hose	2010	36	Helena Höglander
+9/14/2010	H3	0-14	3.46		hose	2010	38	Helena Höglander
+10/5/2010	H3	0-14	2.88		hose	2010	41	Helena Höglander
+10/12/2010	H3	0-14	2.44		hose	2010	42	Helena Höglander
+10/25/2010	H3	0-14	2.43		hose	2010	44	Helena Höglander
+11/16/2010	H3	0-14	2.1		hose	2010	47	Helena Höglander
+12/8/2010	H3	0-14	0.79		hose	2010	50	Helena Höglander
+1/20/2011	H3	0-14	0.67		hose	2011	4	Helena Höglander
+3/1/2011	H3	0-14	0.6		hose	2011	10	Helena Höglander
+3/14/2011	H3	0-14	0.74		hose	2011	12	Helena Höglander
+3/28/2011	H3	0-14	8		hose	2011	14	Helena Höglander
+4/4/2011	H3	0-14	15.8		hose	2011	15	Helena Höglander
+4/11/2011	H3	0-14	12.04		hose	2011	16	Helena Höglander
+4/18/2011	H3	0-14	15.85		hose	2011	17	Helena Höglander
+4/26/2011	H3	0-14	6.59		hose	2011	18	Helena Höglander
+5/3/2011	H3	0-14	3.87		hose	2011	19	Helena Höglander
+5/11/2011	H3	0-14	2.04		hose	2011	20	Helena Höglander
+5/24/2011	H3	0-14	1.53		hose	2011	22	Helena Höglander
+6/7/2011	H3	0-14	1.21		hose	2011	24	Helena Höglander
+6/20/2011	H3	0-14	1.32		hose	2011	26	Helena Höglander
+7/5/2011	H3	0-14	4.22		hose	2011	28	Helena Höglander
+7/18/2011	H3	0-14	3.72		hose	2011	30	Helena Höglander
+8/2/2011	H3	0-14	3.72		hose	2011	32	Helena Höglander
+8/16/2011	H3	0-14	3.46		hose	2011	34	Helena Höglander
+8/30/2011	H3	0-14	3.05		hose	2011	36	Helena Höglander
+9/13/2011	H3	0-14	4.84		hose	2011	38	Helena Höglander
+9/27/2011	H3	0-14	4.42		hose	2011	40	Helena Höglander
+10/11/2011	H3	0-14	4.23		hose	2011	42	Helena Höglander
+10/25/2011	H3	0-14	4.15		hose	2011	44	Helena Höglander
+11/23/2011	H3	0-14	6.22		hose	2011	48	Helena Höglander
+12/13/2011	H3	0-14	1.37		hose	2011	51	Helena Höglander
+1/22/2003	H4	0-14	0.64		hose	2003	4	Helena Höglander
+2/18/2003	H4	0-14	0.56		hose	2003	8	Helena Höglander
+3/10/2003	H4	0-14	0.86		hose	2003	11	Helena Höglander
+3/25/2003	H4	0-14	3.75		hose	2003	13	Helena Höglander
+4/1/2003	H4	0-14	12.85		hose	2003	14	Helena Höglander
+4/8/2003	H4	0-14	10.68		hose	2003	15	Helena Höglander
+4/15/2003	H4	0-14	6.82		hose	2003	16	Helena Höglander
+4/22/2003	H4	0-14	1.98		hose	2003	17	Helena Höglander
+5/7/2003	H4	0-14	2.33		hose	2003	19	Helena Höglander
+5/20/2003	H4	0-14	2.05		hose	2003	21	Helena Höglander
+6/3/2003	H4	0-14	2.04		hose	2003	23	Helena Höglander
+6/17/2003	H4	0-14	1.86		hose	2003	25	Helena Höglander
+7/1/2003	H4	0-14	1.65		hose	2003	27	Helena Höglander
+7/15/2003	H4	0-14	1.76		hose	2003	29	Helena Höglander
+7/29/2003	H4	0-14	2.71		hose	2003	31	Helena Höglander
+8/12/2003	H4	0-14	1.47		hose	2003	33	Helena Höglander
+8/26/2003	H4	0-14	3.14		hose	2003	35	Helena Höglander
+9/9/2003	H4	0-14	2.3		hose	2003	37	Helena Höglander
+9/23/2003	H4	0-14	3.16		hose	2003	39	Helena Höglander
+10/9/2003	H4	0-14	5.78		hose	2003	41	Helena Höglander
+10/21/2003	H4	0-14	3.89		hose	2003	43	Helena Höglander
+11/11/2003	H4	0-14	4.07		hose	2003	46	Helena Höglander
+12/16/2003	H4	0-14	1.21		hose	2003	51	Helena Höglander
+1/29/2004	H4	0-14	0.89		hose	2004	5	Helena Höglander
+2/17/2004	H4	0-14	1.09		hose	2004	8	Helena Höglander
+3/9/2004	H4	0-14	1.09		hose	2004	11	Helena Höglander
+3/23/2004	H4	0-14	3.2		hose	2004	13	Helena Höglander
+4/1/2004	H4	0-14	7.39		hose	2004	14	Helena Höglander
+4/5/2004	H4	0-14	9.25		hose	2004	15	Helena Höglander
+4/13/2004	H4	0-14	6.96		hose	2004	16	Helena Höglander
+4/22/2004	H4	0-14	4.04		hose	2004	17	Helena Höglander
+5/3/2004	H4	0-14	2.65		hose	2004	19	Helena Höglander
+5/25/2004	H4	0-14	1.69		hose	2004	22	Helena Höglander
+6/8/2004	H4	0-14	1.59		hose	2004	24	Helena Höglander
+6/15/2004	H4	0-14	2.93		hose	2004	25	Helena Höglander
+6/29/2004	H4	0-14	3.61		hose	2004	27	Helena Höglander
+7/13/2004	H4	0-14	4.62		hose	2004	29	Helena Höglander
+7/29/2004	H4	0-14	3.38		hose	2004	31	Helena Höglander
+8/10/2004	H4	0-14	2.59		hose	2004	33	Helena Höglander
+8/23/2004	H4	0-14	3.22		hose	2004	35	Helena Höglander
+9/7/2004	H4	0-14	6.39		hose	2004	37	Helena Höglander
+9/23/2004	H4	0-14	5.29		hose	2004	39	Helena Höglander
+10/5/2004	H4	0-14	3.23		hose	2004	41	Helena Höglander
+10/19/2004	H4	0-14	6.3		hose	2004	43	Helena Höglander
+11/9/2004	H4	0-14	2.33		hose	2004	46	Helena Höglander
+12/14/2004	H4	0-14	3.5		hose	2004	51	Helena Höglander
+1/25/2005	H4	0-14	2.04		hose	2005	5	Helena Höglander
+2/15/2005	H4	0-14	2.7		hose	2005	8	Helena Höglander
+3/17/2005	H4	0-14	12.46		hose	2005	12	Helena Höglander
+3/29/2005	H4	0-14	11.31		hose	2005	14	Helena Höglander
+4/5/2005	H4	0-14	7.91		hose	2005	15	Helena Höglander
+4/12/2005	H4	0-14	9.14		hose	2005	16	Helena Höglander
+4/19/2005	H4	0-14	7.9		hose	2005	17	Helena Höglander
+4/26/2005	H4	0-14	6.38		hose	2005	18	Helena Höglander
+5/10/2005	H4	0-14	3.89		hose	2005	20	Helena Höglander
+5/24/2005	H4	0-14	3.27		hose	2005	22	Helena Höglander
+6/7/2005	H4	0-14	4.37		hose	2005	24	Helena Höglander
+6/20/2005	H4	0-14	4.13		hose	2005	26	Helena Höglander
+7/5/2005	H4	0-14	3.02		hose	2005	28	Helena Höglander
+7/20/2005	H4	0-14	3.24		hose	2005	30	Helena Höglander
+8/2/2005	H4	0-14	2.85		hose	2005	32	Helena Höglander
+8/17/2005	H4	0-14	3.23		hose	2005	34	Helena Höglander
+8/30/2005	H4	0-14	3.04		hose	2005	36	Helena Höglander
+9/13/2005	H4	0-14	2.73		hose	2005	38	Helena Höglander
+9/27/2005	H4	0-14	3.75		hose	2005	40	Helena Höglander
+10/11/2005	H4	0-14	2.64		hose	2005	42	Helena Höglander
+10/26/2005	H4	0-14	2.61		hose	2005	44	Helena Höglander
+11/16/2005	H4	0-14	2.26		hose	2005	47	Helena Höglander
+12/13/2005	H4	0-14	1.72		hose	2005	51	Helena Höglander
+1/17/2006	H4	0-14	1.06		hose	2006	3	Helena Höglander
+2/14/2006	H4	0-14	0.74		hose	2006	7	Helena Höglander
+3/14/2006	H4	0-14	0.93		hose	2006	11	Helena Höglander
+3/30/2006	H4	0-14	3.06		hose	2006	13	Helena Höglander
+4/4/2006	H4	0-14	5.29		hose	2006	14	Helena Höglander
+4/10/2006	H4	0-14	16.97		hose	2006	15	Helena Höglander
+4/18/2006	H4	0-14	20.18		hose	2006	16	Helena Höglander
+4/25/2006	H4	0-14	17.47		hose	2006	17	Helena Höglander
+5/9/2006	H4	0-14	9.22		hose	2006	19	Helena Höglander
+5/22/2006	H4	0-14	2.53		hose	2006	21	Helena Höglander
+6/7/2006	H4	0-14	2.17		hose	2006	23	Helena Höglander
+6/20/2006	H4	0-14	2.84		hose	2006	25	Helena Höglander
+7/4/2006	H4	0-14	2.69		hose	2006	27	Helena Höglander
+7/17/2006	H4	0-14	2.69		hose	2006	29	Helena Höglander
+8/1/2006	H4	0-14	4.56		hose	2006	31	Helena Höglander
+8/17/2006	H4	0-14	2.84		hose	2006	33	Helena Höglander
+8/29/2006	H4	0-14	2.5		hose	2006	35	Helena Höglander
+9/12/2006	H4	0-14	3.51		hose	2006	37	Helena Höglander
+9/26/2006	H4	0-14	3.09		hose	2006	39	Helena Höglander
+10/10/2006	H4	0-14	4.55		hose	2006	41	Helena Höglander
+10/25/2006	H4	0-14	3.52		hose	2006	43	Helena Höglander
+11/7/2006	H4	0-14	1.46		hose	2006	45	Helena Höglander
+12/18/2006	H4	0-14	1.04		hose	2006	51	Helena Höglander
+1/17/2007	H4	0-14	1.26		hose	2007	3	Helena Höglander
+2/13/2007	H4	0-14	1.02		hose	2007	7	Helena Höglander
+3/13/2007	H4	0-14	1.67		hose	2007	11	Helena Höglander
+3/27/2007	H4	0-14	1.64		hose	2007	13	Helena Höglander
+4/2/2007	H4	0-14	2.49		hose	2007	14	Helena Höglander
+4/10/2007	H4	0-14	7.48		hose	2007	15	Helena Höglander
+4/17/2007	H4	0-14	20.6		hose	2007	16	Helena Höglander
+4/24/2007	H4	0-14	22.36		hose	2007	17	Helena Höglander
+5/3/2007	H4	0-14	7.26		hose	2007	18	Helena Höglander
+5/9/2007	H4	0-14	6.82		hose	2007	19	Helena Höglander
+5/22/2007	H4	0-14	4.98		hose	2007	21	Helena Höglander
+6/4/2007	H4	0-14	3.87		hose	2007	23	Helena Höglander
+6/18/2007	H4	0-14	4.49	"Unclear marking of bottles, could be 5m-sample (if so 10% too high)"	hose	2007	25	Helena Höglander
+7/3/2007	H4	0-14	3.41		hose	2007	27	Helena Höglander
+7/19/2007	H4	0-14	2.8		hose	2007	29	Helena Höglander
+7/31/2007	H4	0-14	3.21		hose	2007	31	Helena Höglander
+8/14/2007	H4	0-14	3.47		hose	2007	33	Helena Höglander
+8/28/2007	H4	0-14	3.55		hose	2007	35	Helena Höglander
+9/11/2007	H4	0-14	6.51		hose	2007	37	Helena Höglander
+9/25/2007	H4	0-14	7.13		hose	2007	39	Helena Höglander
+10/11/2007	H4	0-14	6.71		hose	2007	41	Helena Höglander
+10/23/2007	H4	0-14	3.82		hose	2007	43	Helena Höglander
+11/6/2007	H4	0-14	2.34		hose	2007	45	Helena Höglander
+12/12/2007	H4	0-14	1.63		hose	2007	50	Helena Höglander
+1/22/2008	H4	0-14	1.15		hose	2008	4	Helena Höglander
+2/13/2008	H4	0-14	1.86		hose	2008	7	Helena Höglander
+3/10/2008	H4	0-14	2.14		hose	2008	11	Helena Höglander
+3/25/2008	H4	0-14	5.85		hose	2008	13	Helena Höglander
+4/1/2008	H4	0-14	7.41		hose	2008	14	Helena Höglander
+4/8/2008	H4	0-14	10.87		hose	2008	15	Helena Höglander
+4/15/2008	H4	0-14	13.14		hose	2008	16	Helena Höglander
+4/22/2008	H4	0-14	5.47		hose	2008	17	Helena Höglander
+5/7/2008	H4	0-14	4.31		hose	2008	19	Helena Höglander
+5/22/2008	H4	0-14	5.9		hose	2008	21	Helena Höglander
+6/2/2008	H4	0-14	6.81		hose	2008	23	Helena Höglander
+6/16/2008	H4	0-14	5.82		hose	2008	25	Helena Höglander
+7/1/2008	H4	0-14	5.72		hose	2008	27	Helena Höglander
+7/15/2008	H4	0-14	4.83		hose	2008	29	Helena Höglander
+7/29/2008	H4	0-14	4.87		hose	2008	31	Helena Höglander
+8/12/2008	H4	0-14	4.81		hose	2008	33	Helena Höglander
+8/26/2008	H4	0-14	7.66		hose	2008	35	Helena Höglander
+9/9/2008	H4	0-14	4.83		hose	2008	37	Helena Höglander
+9/23/2008	H4	0-14	5.64		hose	2008	39	Helena Höglander
+10/7/2008	H4	0-14	2.22		hose	2008	41	Helena Höglander
+10/28/2008	H4	0-14	1.42		hose	2008	44	Helena Höglander
+11/20/2008	H4	0-14	2.33		hose	2008	47	Helena Höglander
+12/16/2008	H4	0-14	1.01		hose	2008	51	Helena Höglander
+1/14/2009	H4	0-14	1.56		hose	2009	3	Helena Höglander
+2/18/2009	H4	0-14	0.91		hose	2009	8	Helena Höglander
+3/10/2009	H4	0-14	1.62		hose	2009	11	Helena Höglander
+3/23/2009	H4	0-14	3.52		hose	2009	13	Helena Höglander
+3/31/2009	H4	0-14	4.73		hose	2009	14	Helena Höglander
+4/6/2009	H4	0-14	5.24		hose	2009	15	Helena Höglander
+4/14/2009	H4	0-14	10.16		hose	2009	16	Helena Höglander
+4/21/2009	H4	0-14	7.89		hose	2009	17	Helena Höglander
+4/28/2009	H4	0-14	10.5		hose	2009	18	Helena Höglander
+5/7/2009	H4	0-14	7.2		hose	2009	19	Helena Höglander
+5/18/2009	H4	0-14	3.52		hose	2009	21	Helena Höglander
+6/2/2009	H4	0-14	3.86		hose	2009	23	Helena Höglander
+6/15/2009	H4	0-14	3.69		hose	2009	25	Helena Höglander
+6/30/2009	H4	0-14	4.6		hose	2009	27	Helena Höglander
+7/14/2009	H4	0-14	5		hose	2009	29	Helena Höglander
+7/23/2009	H4	0-14	3.48		hose	2009	30	Helena Höglander
+8/11/2009	H4	0-14	2.84		hose	2009	33	Helena Höglander
+8/25/2009	H4	0-14	2.95		hose	2009	35	Helena Höglander
+9/7/2009	H4	0-14	3.58		hose	2009	37	Helena Höglander
+9/22/2009	H4	0-14	2.59		hose	2009	39	Helena Höglander
+10/13/2009	H4	0-14	3.01		hose	2009	42	Helena Höglander
+10/21/2009	H4	0-14	3.15		hose	2009	43	Helena Höglander
+11/11/2009	H4	0-14	3.17		hose	2009	46	Helena Höglander
+12/9/2009	H4	0-14	2.75		hose	2009	50	Helena Höglander
+2/16/2010	H4	0-14	1.98		hose	2010	8	Helena Höglander
+3/2/2010	H4	0-14	0.76		hose	2010	10	Helena Höglander
+3/16/2010	H4	0-14	0.73		hose	2010	12	Helena Höglander
+3/29/2010	H4	0-14	4.34		hose	2010	14	Helena Höglander
+4/8/2010	H4	0-14	7.54		hose	2010	15	Helena Höglander
+4/12/2010	H4	0-14	6.33		hose	2010	16	Helena Höglander
+4/19/2010	H4	0-14	19.51		hose	2010	17	Helena Höglander
+4/26/2010	H4	0-14	17.53		hose	2010	18	Helena Höglander
+5/4/2010	H4	0-14	13.05		hose	2010	19	Helena Höglander
+5/11/2010	H4	0-14	8.65		hose	2010	20	Helena Höglander
+5/26/2010	H4	0-14	2.17		hose	2010	22	Helena Höglander
+6/8/2010	H4	0-14	2.31		hose	2010	24	Helena Höglander
+6/21/2010	H4	0-14	2.78		hose	2010	26	Helena Höglander
+7/6/2010	H4	0-14	3.96		hose	2010	28	Helena Höglander
+7/15/2010	H4	0-14	2.2		hose	2010	29	Helena Höglander
+8/3/2010	H4	0-14	4.5		hose	2010	32	Helena Höglander
+8/17/2010	H4	0-14	3.81		hose	2010	34	Helena Höglander
+8/30/2010	H4	0-14	3.65		hose	2010	36	Helena Höglander
+9/14/2010	H4	0-14	4.28		hose	2010	38	Helena Höglander
+10/5/2010	H4	0-14	3.76		hose	2010	41	Helena Höglander
+10/12/2010	H4	0-14	4.18		hose	2010	42	Helena Höglander
+10/25/2010	H4	0-14	1.63		hose	2010	44	Helena Höglander
+11/16/2010	H4	0-14	2.98		hose	2010	47	Helena Höglander
+12/8/2010	H4	0-14	1.41		hose	2010	50	Helena Höglander
+1/20/2011	H4	0-14	0.58		hose	2011	4	Helena Höglander
+3/1/2011	H4	0-14	0.41		hose	2011	10	Helena Höglander
+3/15/2011	H4	0-14	0.74		hose	2011	12	Helena Höglander
+3/29/2011	H4	0-14	3.67		hose	2011	14	Helena Höglander
+4/5/2011	H4	0-14	10.36		hose	2011	15	Helena Höglander
+4/11/2011	H4	0-14	9.46		hose	2011	16	Helena Höglander
+4/18/2011	H4	0-14	13.67		hose	2011	17	Helena Höglander
+4/26/2011	H4	0-14	9.7		hose	2011	18	Helena Höglander
+5/3/2011	H4	0-14	6.47		hose	2011	19	Helena Höglander
+5/11/2011	H4	0-14	3.75		hose	2011	20	Helena Höglander
+5/24/2011	H4	0-14	1.8		hose	2011	22	Helena Höglander
+6/7/2011	H4	0-14	2.08		hose	2011	24	Helena Höglander
+6/20/2011	H4	0-14	2.61		hose	2011	26	Helena Höglander
+7/5/2011	H4	0-14	3.92		hose	2011	28	Helena Höglander
+7/18/2011	H4	0-14	3.94		hose	2011	30	Helena Höglander
+8/2/2011	H4	0-14	4.21		hose	2011	32	Helena Höglander
+8/15/2011	H4	0-14	3.22		hose	2011	34	Helena Höglander
+8/30/2011	H4	0-14	3.72		hose	2011	36	Helena Höglander
+9/13/2011	H4	0-14	2.27		hose	2011	38	Helena Höglander
+9/27/2011	H4	0-14	10.72		hose	2011	40	Helena Höglander
+10/11/2011	H4	0-14	7.23		hose	2011	42	Helena Höglander
+10/25/2011	H4	0-14	5.53		hose	2011	44	Helena Höglander
+11/23/2011	H4	0-14	7.25		hose	2011	48	Helena Höglander
+12/13/2011	H4	0-14	2.16		hose	2011	51	Helena Höglander
+1/22/2003	H5	0-14	0.55		hose	2003	4	Helena Höglander
+3/25/2003	H5	0-14	3.57		hose	2003	13	Helena Höglander
+4/1/2003	H5	0-14	10.1		hose	2003	14	Helena Höglander
+4/8/2003	H5	0-14	12.74		hose	2003	15	Helena Höglander
+4/15/2003	H5	0-14	8.92		hose	2003	16	Helena Höglander
+4/22/2003	H5	0-14	3.45		hose	2003	17	Helena Höglander
+5/7/2003	H5	0-14	2.78		hose	2003	19	Helena Höglander
+5/20/2003	H5	0-14	1.68		hose	2003	21	Helena Höglander
+6/3/2003	H5	0-14	1.58		hose	2003	23	Helena Höglander
+6/17/2003	H5	0-14	2.08		hose	2003	25	Helena Höglander
+7/1/2003	H5	0-14	2.15		hose	2003	27	Helena Höglander
+7/15/2003	H5	0-14	2.24		hose	2003	29	Helena Höglander
+7/29/2003	H5	0-14	2.61		hose	2003	31	Helena Höglander
+8/12/2003	H5	0-14	1.53		hose	2003	33	Helena Höglander
+8/26/2003	H5	0-14	1.76		hose	2003	35	Helena Höglander
+9/9/2003	H5	0-14	2.76		hose	2003	37	Helena Höglander
+9/23/2003	H5	0-14	4.36		hose	2003	39	Helena Höglander
+10/9/2003	H5	0-14	6.78		hose	2003	41	Helena Höglander
+10/21/2003	H5	0-14	3.74		hose	2003	43	Helena Höglander
+11/11/2003	H5	0-14	2.08		hose	2003	46	Helena Höglander
+12/16/2003	H5	0-14	1.29		hose	2003	51	Helena Höglander
+1/29/2004	H5	0-14	1		hose	2004	5	Helena Höglander
+2/17/2004	H5	0-14	1.11		hose	2004	8	Helena Höglander
+3/9/2004	H5	0-14	1.28		hose	2004	11	Helena Höglander
+3/23/2004	H5	0-14	2.17		hose	2004	13	Helena Höglander
+4/1/2004	H5	0-14	6.13		hose	2004	14	Helena Höglander
+4/5/2004	H5	0-14	12.11		hose	2004	15	Helena Höglander
+4/13/2004	H5	0-14	8.74		hose	2004	16	Helena Höglander
+4/22/2004	H5	0-14	6.52		hose	2004	17	Helena Höglander
+5/3/2004	H5	0-14	3.31		hose	2004	19	Helena Höglander
+5/25/2004	H5	0-14	1.85		hose	2004	22	Helena Höglander
+6/8/2004	H5	0-14	2.14		hose	2004	24	Helena Höglander
+6/15/2004	H5	0-14	2.05		hose	2004	25	Helena Höglander
+6/29/2004	H5	0-14	4.09		hose	2004	27	Helena Höglander
+7/13/2004	H5	0-14	4.47		hose	2004	29	Helena Höglander
+7/29/2004	H5	0-14	2.63		hose	2004	31	Helena Höglander
+8/10/2004	H5	0-14	3.1		hose	2004	33	Helena Höglander
+8/23/2004	H5	0-14	4.77		hose	2004	35	Helena Höglander
+9/7/2004	H5	0-14	3.7		hose	2004	37	Helena Höglander
+9/23/2004	H5	0-14	4.42		hose	2004	39	Helena Höglander
+10/5/2004	H5	0-14	4.37		hose	2004	41	Helena Höglander
+10/19/2004	H5	0-14	4.11		hose	2004	43	Helena Höglander
+11/9/2004	H5	0-14	3.8		hose	2004	46	Helena Höglander
+12/14/2004	H5	0-14	2.81		hose	2004	51	Helena Höglander
+1/25/2005	H5	0-14	4.3		hose	2005	5	Helena Höglander
+2/15/2005	H5	0-14	5.41		hose	2005	8	Helena Höglander
+3/17/2005	H5	0-14	8.65		hose	2005	12	Helena Höglander
+3/29/2005	H5	0-14	9.82		hose	2005	14	Helena Höglander
+4/5/2005	H5	0-14	11.57		hose	2005	15	Helena Höglander
+4/12/2005	H5	0-14	11.57		hose	2005	16	Helena Höglander
+4/19/2005	H5	0-14	8.16		hose	2005	17	Helena Höglander
+4/26/2005	H5	0-14	7.24		hose	2005	18	Helena Höglander
+5/10/2005	H5	0-14	4.62		hose	2005	20	Helena Höglander
+5/24/2005	H5	0-14	2.9		hose	2005	22	Helena Höglander
+6/7/2005	H5	0-14	3.63		hose	2005	24	Helena Höglander
+6/20/2005	H5	0-14	4.13		hose	2005	26	Helena Höglander
+7/5/2005	H5	0-14	3.08		hose	2005	28	Helena Höglander
+7/20/2005	H5	0-14	3.84		hose	2005	30	Helena Höglander
+8/2/2005	H5	0-14	2.71		hose	2005	32	Helena Höglander
+8/17/2005	H5	0-14	3.43		hose	2005	34	Helena Höglander
+8/30/2005	H5	0-14	4.17		hose	2005	36	Helena Höglander
+9/13/2005	H5	0-14	2.37		hose	2005	38	Helena Höglander
+9/27/2005	H5	0-14	3.74		hose	2005	40	Helena Höglander
+10/11/2005	H5	0-14	3.47		hose	2005	42	Helena Höglander
+10/26/2005	H5	0-14	2.5		hose	2005	44	Helena Höglander
+11/16/2005	H5	0-14	3.08		hose	2005	47	Helena Höglander
+12/13/2005	H5	0-14	1.56		hose	2005	51	Helena Höglander
+1/17/2006	H5	0-14	1.16		hose	2006	3	Helena Höglander
+2/14/2006	H5	0-14	0.62		hose	2006	7	Helena Höglander
+4/4/2006	H5	0-14	2.49		hose	2006	14	Helena Höglander
+4/10/2006	H5	0-14	11.87		hose	2006	15	Helena Höglander
+4/18/2006	H5	0-14	31.52		hose	2006	16	Helena Höglander
+4/25/2006	H5	0-14	21.72		hose	2006	17	Helena Höglander
+5/9/2006	H5	0-14	9.74		hose	2006	19	Helena Höglander
+5/22/2006	H5	0-14	2.54		hose	2006	21	Helena Höglander
+6/7/2006	H5	0-14	2.71		hose	2006	23	Helena Höglander
+6/20/2006	H5	0-14	4.42		hose	2006	25	Helena Höglander
+7/4/2006	H5	0-14	3.45		hose	2006	27	Helena Höglander
+7/17/2006	H5	0-14	2.69		hose	2006	29	Helena Höglander
+8/1/2006	H5	0-14	3.87		hose	2006	31	Helena Höglander
+8/17/2006	H5	0-14	2.21		hose	2006	33	Helena Höglander
+8/29/2006	H5	0-14	3.05		hose	2006	35	Helena Höglander
+9/12/2006	H5	0-14	3.01		hose	2006	37	Helena Höglander
+9/26/2006	H5	0-14	3.47		hose	2006	39	Helena Höglander
+10/10/2006	H5	0-14	4.21		hose	2006	41	Helena Höglander
+10/25/2006	H5	0-14	NA	Sample missing	hose	2006	43	Helena Höglander
+11/7/2006	H5	0-14	1.67		hose	2006	45	Helena Höglander
+12/18/2006	H5	0-14	0.9		hose	2006	51	Helena Höglander
+1/17/2007	H5	0-14	1.35		hose	2007	3	Helena Höglander
+2/13/2007	H5	0-14	1.14		hose	2007	7	Helena Höglander
+3/13/2007	H5	0-14	1.64		hose	2007	11	Helena Höglander
+3/27/2007	H5	0-14	1.81		hose	2007	13	Helena Höglander
+4/2/2007	H5	0-14	3.66		hose	2007	14	Helena Höglander
+4/10/2007	H5	0-14	8.27		hose	2007	15	Helena Höglander
+4/17/2007	H5	0-14	20.87		hose	2007	16	Helena Höglander
+4/24/2007	H5	0-14	27.85		hose	2007	17	Helena Höglander
+5/3/2007	H5	0-14	9.82		hose	2007	18	Helena Höglander
+5/9/2007	H5	0-14	5.68		hose	2007	19	Helena Höglander
+5/22/2007	H5	0-14	4.9		hose	2007	21	Helena Höglander
+6/4/2007	H5	0-14	3.2		hose	2007	23	Helena Höglander
+6/18/2007	H5	0-14	4.15		hose	2007	25	Helena Höglander
+7/3/2007	H5	0-14	4.39		hose	2007	27	Helena Höglander
+7/19/2007	H5	0-14	3.58		hose	2007	29	Helena Höglander
+7/31/2007	H5	0-14	4.16		hose	2007	31	Helena Höglander
+8/14/2007	H5	0-14	4.02		hose	2007	33	Helena Höglander
+8/28/2007	H5	0-14	2.65		hose	2007	35	Helena Höglander
+9/11/2007	H5	0-14	5.75		hose	2007	37	Helena Höglander
+9/25/2007	H5	0-14	8.43		hose	2007	39	Helena Höglander
+10/11/2007	H5	0-14	5.24		hose	2007	41	Helena Höglander
+10/23/2007	H5	0-14	3.92		hose	2007	43	Helena Höglander
+11/6/2007	H5	0-14	3.57		hose	2007	45	Helena Höglander
+12/12/2007	H5	0-14	1.28		hose	2007	50	Helena Höglander
+1/22/2008	H5	0-14	1.06		hose	2008	4	Helena Höglander
+2/13/2008	H5	0-14	1.2		hose	2008	7	Helena Höglander
+3/10/2008	H5	0-14	2.3		hose	2008	11	Helena Höglander
+3/25/2008	H5	0-14	5.37		hose	2008	13	Helena Höglander
+4/1/2008	H5	0-14	7.3		hose	2008	14	Helena Höglander
+4/8/2008	H5	0-14	13.69		hose	2008	15	Helena Höglander
+4/15/2008	H5	0-14	14.33		hose	2008	16	Helena Höglander
+4/22/2008	H5	0-14	8.24		hose	2008	17	Helena Höglander
+5/7/2008	H5	0-14	4.73		hose	2008	19	Helena Höglander
+5/22/2008	H5	0-14	7.87		hose	2008	21	Helena Höglander
+6/2/2008	H5	0-14	7.56		hose	2008	23	Helena Höglander
+6/16/2008	H5	0-14	8.03		hose	2008	25	Helena Höglander
+7/1/2008	H5	0-14	6.88		hose	2008	27	Helena Höglander
+7/15/2008	H5	0-14	8.83		hose	2008	29	Helena Höglander
+7/29/2008	H5	0-14	5.23		hose	2008	31	Helena Höglander
+8/12/2008	H5	0-14	7.1		hose	2008	33	Helena Höglander
+8/26/2008	H5	0-14	4.88		hose	2008	35	Helena Höglander
+9/9/2008	H5	0-14	2.53		hose	2008	37	Helena Höglander
+9/23/2008	H5	0-14	5.29		hose	2008	39	Helena Höglander
+10/7/2008	H5	0-14	3.19		hose	2008	41	Helena Höglander
+10/28/2008	H5	0-14	4.83		hose	2008	44	Helena Höglander
+11/20/2008	H5	0-14	4.33		hose	2008	47	Helena Höglander
+12/16/2008	H5	0-14	1.66		hose	2008	51	Helena Höglander
+1/14/2009	H5	0-14	0.82		hose	2009	3	Helena Höglander
+2/18/2009	H5	0-14	1.01		hose	2009	8	Helena Höglander
+3/10/2009	H5	0-14	1.79		hose	2009	11	Helena Höglander
+3/23/2009	H5	0-14	3.92		hose	2009	13	Helena Höglander
+3/31/2009	H5	0-14	5.6		hose	2009	14	Helena Höglander
+4/6/2009	H5	0-14	4.56		hose	2009	15	Helena Höglander
+4/14/2009	H5	0-14	10.1		hose	2009	16	Helena Höglander
+4/21/2009	H5	0-14	11.44		hose	2009	17	Helena Höglander
+4/28/2009	H5	0-14	9.46		hose	2009	18	Helena Höglander
+5/7/2009	H5	0-14	9.96		hose	2009	19	Helena Höglander
+5/18/2009	H5	0-14	3.15		hose	2009	21	Helena Höglander
+6/2/2009	H5	0-14	5.4		hose	2009	23	Helena Höglander
+6/15/2009	H5	0-14	3.4		hose	2009	25	Helena Höglander
+6/30/2009	H5	0-14	6.06		hose	2009	27	Helena Höglander
+7/14/2009	H5	0-14	6.56		hose	2009	29	Helena Höglander
+7/23/2009	H5	0-14	6.61		hose	2009	30	Helena Höglander
+8/11/2009	H5	0-14	3.82		hose	2009	33	Helena Höglander
+8/25/2009	H5	0-14	3.68		hose	2009	35	Helena Höglander
+9/7/2009	H5	0-14	4.39		hose	2009	37	Helena Höglander
+9/22/2009	H5	0-14	6.59		hose	2009	39	Helena Höglander
+10/13/2009	H5	0-14	2.24		hose	2009	42	Helena Höglander
+10/21/2009	H5	0-14	5.32		hose	2009	43	Helena Höglander
+11/11/2009	H5	0-14	3.7		hose	2009	46	Helena Höglander
+12/9/2009	H5	0-14	3.02		hose	2009	50	Helena Höglander
+2/17/2010	H5	0-14	1.23		hose	2010	8	Helena Höglander
+3/3/2010	H5	0-14	0.51		hose	2010	10	Helena Höglander
+3/16/2010	H5	0-14	0.57		hose	2010	12	Helena Höglander
+3/29/2010	H5	0-14	1.29		hose	2010	14	Helena Höglander
+4/8/2010	H5	0-14	5.78		hose	2010	15	Helena Höglander
+4/12/2010	H5	0-14	5.21		hose	2010	16	Helena Höglander
+4/19/2010	H5	0-14	14.08		hose	2010	17	Helena Höglander
+4/26/2010	H5	0-14	19.91		hose	2010	18	Helena Höglander
+5/4/2010	H5	0-14	16.88		hose	2010	19	Helena Höglander
+5/11/2010	H5	0-14	9.4		hose	2010	20	Helena Höglander
+5/26/2010	H5	0-14	2.68		hose	2010	22	Helena Höglander
+6/8/2010	H5	0-14	2.96		hose	2010	24	Helena Höglander
+6/21/2010	H5	0-14	3.81		hose	2010	26	Helena Höglander
+7/6/2010	H5	0-14	4.61		hose	2010	28	Helena Höglander
+7/15/2010	H5	0-14	3.68		hose	2010	29	Helena Höglander
+8/3/2010	H5	0-14	3.81		hose	2010	32	Helena Höglander
+8/17/2010	H5	0-14	2.39		hose	2010	34	Helena Höglander
+8/30/2010	H5	0-14	2.4		hose	2010	36	Helena Höglander
+9/14/2010	H5	0-14	5.26		hose	2010	38	Helena Höglander
+10/5/2010	H5	0-14	4.84		hose	2010	41	Helena Höglander
+10/12/2010	H5	0-14	3.64		hose	2010	42	Helena Höglander
+10/25/2010	H5	0-14	4.04		hose	2010	44	Helena Höglander
+11/16/2010	H5	0-14	3.09		hose	2010	47	Helena Höglander
+12/8/2010	H5	0-14	2.04		hose	2010	50	Helena Höglander
+1/20/2011	H5	0-14	0.59		hose	2011	4	Helena Höglander
+3/1/2011	H5	0-14	0.64		hose	2011	10	Helena Höglander
+3/15/2011	H5	0-14	0.67		hose	2011	12	Helena Höglander
+3/29/2011	H5	0-14	2.53		hose	2011	14	Helena Höglander
+4/5/2011	H5	0-14	4.4		hose	2011	15	Helena Höglander
+4/11/2011	H5	0-14	8.82		hose	2011	16	Helena Höglander
+4/18/2011	H5	0-14	17.51		hose	2011	17	Helena Höglander
+4/26/2011	H5	0-14	11.77		hose	2011	18	Helena Höglander
+5/3/2011	H5	0-14	7.58		hose	2011	19	Helena Höglander
+5/11/2011	H5	0-14	5.25		hose	2011	20	Helena Höglander
+5/24/2011	H5	0-14	2.2		hose	2011	22	Helena Höglander
+6/7/2011	H5	0-14	2.46		hose	2011	24	Helena Höglander
+6/20/2011	H5	0-14	3.93		hose	2011	26	Helena Höglander
+7/5/2011	H5	0-14	3.26		hose	2011	28	Helena Höglander
+7/18/2011	H5	0-14	5.68		hose	2011	30	Helena Höglander
+8/2/2011	H5	0-14	3.54		hose	2011	32	Helena Höglander
+8/15/2011	H5	0-14	2.45		hose	2011	34	Helena Höglander
+8/30/2011	H5	0-14	4.36		hose	2011	36	Helena Höglander
+9/13/2011	H5	0-14	3.48		hose	2011	38	Helena Höglander
+9/27/2011	H5	0-14	8.15		hose	2011	40	Helena Höglander
+10/11/2011	H5	0-14	6.41		hose	2011	42	Helena Höglander
+10/25/2011	H5	0-14	7.21		hose	2011	44	Helena Höglander
+11/23/2011	H5	0-14	6.82		hose	2011	48	Helena Höglander
+12/13/2011	H5	0-14	3.57		hose	2011	51	Helena Höglander
+1/22/2003	B1	0	0.2		surface bucket	2003	4	Helena Höglander
+2/18/2003	B1	0	0.45		surface bucket	2003	8	Helena Höglander
+3/10/2003	B1	0	1.97		surface bucket	2003	11	Helena Höglander
+3/25/2003	B1	0	6.64		surface bucket	2003	13	Helena Höglander
+4/1/2003	B1	0	4.73		surface bucket	2003	14	Helena Höglander
+4/8/2003	B1	0	6.46		surface bucket	2003	15	Helena Höglander
+4/15/2003	B1	0	1.57		surface bucket	2003	16	Helena Höglander
+4/22/2003	B1	0	0.61		surface bucket	2003	17	Helena Höglander
+5/7/2003	B1	0	1.88		surface bucket	2003	19	Helena Höglander
+5/20/2003	B1	0	0.79		surface bucket	2003	21	Helena Höglander
+6/3/2003	B1	0	0.72		surface bucket	2003	23	Helena Höglander
+6/17/2003	B1	0	0.62		surface bucket	2003	25	Helena Höglander
+7/1/2003	B1	0	4.36		surface bucket	2003	27	Helena Höglander
+7/15/2003	B1	0	2.34		surface bucket	2003	29	Helena Höglander
+7/29/2003	B1	0	3.98		surface bucket	2003	31	Helena Höglander
+8/12/2003	B1	0	3		surface bucket	2003	33	Helena Höglander
+8/26/2003	B1	0	2.71		surface bucket	2003	35	Helena Höglander
+9/9/2003	B1	0	2.16		surface bucket	2003	37	Helena Höglander
+9/29/2003	B1	0	1.92		surface bucket	2003	40	Helena Höglander
+10/9/2003	B1	0	2.44		surface bucket	2003	41	Helena Höglander
+10/21/2003	B1	0	2.93		surface bucket	2003	43	Helena Höglander
+11/11/2003	B1	0	1.16		surface bucket	2003	46	Helena Höglander
+12/16/2003	B1	0	0.42		surface bucket	2003	51	Helena Höglander
+1/29/2004	B1	0	NA	Sample missing	surface bucket	2004	5	Helena Höglander
+2/17/2004	B1	0	0.45		surface bucket	2004	8	Helena Höglander
+3/9/2004	B1	0	0.94		surface bucket	2004	11	Helena Höglander
+3/23/2004	B1	0	2.64		surface bucket	2004	13	Helena Höglander
+4/1/2004	B1	0	5.35		surface bucket	2004	14	Helena Höglander
+4/5/2004	B1	0	4.49		surface bucket	2004	15	Helena Höglander
+4/13/2004	B1	0	1.88		surface bucket	2004	16	Helena Höglander
+4/22/2004	B1	0	3.81		surface bucket	2004	17	Helena Höglander
+5/3/2004	B1	0	1.35		surface bucket	2004	19	Helena Höglander
+5/25/2004	B1	0	1.43		surface bucket	2004	22	Helena Höglander
+6/1/2004	B1	0	0.92		surface bucket	2004	23	Helena Höglander
+6/15/2004	B1	0	2.06		surface bucket	2004	25	Helena Höglander
+6/29/2004	B1	0	2.24		surface bucket	2004	27	Helena Höglander
+7/13/2004	B1	0	3.06		surface bucket	2004	29	Helena Höglander
+7/29/2004	B1	0	1.56		surface bucket	2004	31	Helena Höglander
+8/10/2004	B1	0	1.74		surface bucket	2004	33	Helena Höglander
+8/23/2004	B1	0	1.54		surface bucket	2004	35	Helena Höglander
+9/7/2004	B1	0	2.68		surface bucket	2004	37	Helena Höglander
+9/23/2004	B1	0	1.64		surface bucket	2004	39	Helena Höglander
+10/5/2004	B1	0	2.24		surface bucket	2004	41	Helena Höglander
+10/19/2004	B1	0	1.11		surface bucket	2004	43	Helena Höglander
+11/9/2004	B1	0	0.96		surface bucket	2004	46	Helena Höglander
+12/14/2004	B1	0	1.19		surface bucket	2004	51	Helena Höglander
+1/25/2005	B1	0	0.34		surface bucket	2005	5	Helena Höglander
+2/15/2005	B1	0	1.62		surface bucket	2005	8	Helena Höglander
+3/17/2005	B1	0	4.68		surface bucket	2005	12	Helena Höglander
+3/29/2005	B1	0	4.78		surface bucket	2005	14	Helena Höglander
+4/5/2005	B1	0	2.88		surface bucket	2005	15	Helena Höglander
+4/12/2005	B1	0	1.9		surface bucket	2005	16	Helena Höglander
+4/19/2005	B1	0	2.4		surface bucket	2005	17	Helena Höglander
+4/26/2005	B1	0	1.74		surface bucket	2005	18	Helena Höglander
+5/10/2005	B1	0	1.59		surface bucket	2005	20	Helena Höglander
+5/24/2005	B1	0	1.3		surface bucket	2005	22	Helena Höglander
+6/7/2005	B1	0	2.02		surface bucket	2005	24	Helena Höglander
+6/20/2005	B1	0	1.29		surface bucket	2005	26	Helena Höglander
+7/5/2005	B1	0	2.95		surface bucket	2005	28	Helena Höglander
+7/20/2005	B1	0	6.05		surface bucket	2005	30	Helena Höglander
+8/2/2005	B1	0	3.43		surface bucket	2005	32	Helena Höglander
+8/17/2005	B1	0	2.18		surface bucket	2005	34	Helena Höglander
+8/30/2005	B1	0	1.87		surface bucket	2005	36	Helena Höglander
+9/13/2005	B1	0	1.82		surface bucket	2005	38	Helena Höglander
+9/27/2005	B1	0	1.48		surface bucket	2005	40	Helena Höglander
+10/11/2005	B1	0	1.22		surface bucket	2005	42	Helena Höglander
+10/26/2005	B1	0	1.7		surface bucket	2005	44	Helena Höglander
+11/16/2005	B1	0	0.96		surface bucket	2005	47	Helena Höglander
+12/13/2005	B1	0	0.61		surface bucket	2005	51	Helena Höglander
+1/17/2006	B1	0	0.29		surface bucket	2006	3	Helena Höglander
+2/14/2006	B1	0	0.39		surface bucket	2006	7	Helena Höglander
+3/14/2006	B1	0	1.08		surface bucket	2006	11	Helena Höglander
+3/30/2006	B1	0	2.54		surface bucket	2006	13	Helena Höglander
+4/4/2006	B1	0	5.07		surface bucket	2006	14	Helena Höglander
+4/10/2006	B1	0	4.37		surface bucket	2006	15	Helena Höglander
+4/18/2006	B1	0	3.6		surface bucket	2006	16	Helena Höglander
+4/25/2006	B1	0	1.71		surface bucket	2006	17	Helena Höglander
+5/9/2006	B1	0	2.25		surface bucket	2006	19	Helena Höglander
+5/22/2006	B1	0	2.29		surface bucket	2006	21	Helena Höglander
+6/7/2006	B1	0	0.81		surface bucket	2006	23	Helena Höglander
+6/20/2006	B1	0	1.91		surface bucket	2006	25	Helena Höglander
+7/4/2006	B1	0	1.3		surface bucket	2006	27	Helena Höglander
+7/17/2006	B1	0	2.77		surface bucket	2006	29	Helena Höglander
+8/1/2006	B1	0	3.77		surface bucket	2006	31	Helena Höglander
+8/17/2006	B1	0	4.05		surface bucket	2006	33	Helena Höglander
+8/29/2006	B1	0	2.14		surface bucket	2006	35	Helena Höglander
+9/12/2006	B1	0	2		surface bucket	2006	37	Helena Höglander
+9/26/2006	B1	0	1.85		surface bucket	2006	39	Helena Höglander
+10/10/2006	B1	0	2.29		surface bucket	2006	41	Helena Höglander
+10/25/2006	B1	0	0.8		surface bucket	2006	43	Helena Höglander
+11/7/2006	B1	0	0.8		surface bucket	2006	45	Helena Höglander
+12/18/2006	B1	0	0.4		surface bucket	2006	51	Helena Höglander
+1/17/2007	B1	0	0.4		surface bucket	2007	3	Helena Höglander
+2/14/2007	B1	0	1.03		surface bucket	2007	7	Helena Höglander
+3/12/2007	B1	0	0.78		surface bucket	2007	11	Helena Höglander
+3/26/2007	B1	0	0.78		surface bucket	2007	13	Helena Höglander
+4/2/2007	B1	0	5.61		surface bucket	2007	14	Helena Höglander
+4/10/2007	B1	0	2.85		surface bucket	2007	15	Helena Höglander
+4/17/2007	B1	0	1.97		surface bucket	2007	16	Helena Höglander
+4/24/2007	B1	0	3.38		surface bucket	2007	17	Helena Höglander
+5/3/2007	B1	0	1.06		surface bucket	2007	18	Helena Höglander
+5/9/2007	B1	0	0.82		surface bucket	2007	19	Helena Höglander
+5/22/2007	B1	0	1.33		surface bucket	2007	21	Helena Höglander
+6/4/2007	B1	0	1.17		surface bucket	2007	23	Helena Höglander
+6/18/2007	B1	0	NA	Sample missing	surface bucket	2007	25	Helena Höglander
+7/3/2007	B1	0	5.82		surface bucket	2007	27	Helena Höglander
+7/19/2007	B1	0	1.37		surface bucket	2007	29	Helena Höglander
+7/31/2007	B1	0	1.38		surface bucket	2007	31	Helena Höglander
+8/14/2007	B1	0	4.87		surface bucket	2007	33	Helena Höglander
+8/28/2007	B1	0	1.84		surface bucket	2007	35	Helena Höglander
+9/11/2007	B1	0	2.5		surface bucket	2007	37	Helena Höglander
+9/25/2007	B1	0	1.35		surface bucket	2007	39	Helena Höglander
+10/11/2007	B1	0	2.35		surface bucket	2007	41	Helena Höglander
+10/23/2007	B1	0	3.57		surface bucket	2007	43	Helena Höglander
+11/7/2007	B1	0	2.97		surface bucket	2007	45	Helena Höglander
+12/11/2007	B1	0	2.23		surface bucket	2007	50	Helena Höglander
+1/21/2008	B1	0	1.7		surface bucket	2008	4	Helena Höglander
+2/12/2008	B1	0	3.02		surface bucket	2008	7	Helena Höglander
+3/11/2008	B1	0	3.2		surface bucket	2008	11	Helena Höglander
+3/26/2008	B1	0	5.42		surface bucket	2008	13	Helena Höglander
+4/1/2008	B1	0	2.27		surface bucket	2008	14	Helena Höglander
+4/8/2008	B1	0	2.38		surface bucket	2008	15	Helena Höglander
+4/15/2008	B1	0	2.46		surface bucket	2008	16	Helena Höglander
+4/22/2008	B1	0	2.1		surface bucket	2008	17	Helena Höglander
+5/7/2008	B1	0	1.87		surface bucket	2008	19	Helena Höglander
+5/22/2008	B1	0	2.26		surface bucket	2008	21	Helena Höglander
+6/2/2008	B1	0	2.46		surface bucket	2008	23	Helena Höglander
+6/16/2008	B1	0	2.49		surface bucket	2008	25	Helena Höglander
+7/1/2008	B1	0	1.5		surface bucket	2008	27	Helena Höglander
+7/15/2008	B1	0	5.58		surface bucket	2008	29	Helena Höglander
+7/29/2008	B1	0	3.04		surface bucket	2008	31	Helena Höglander
+8/12/2008	B1	0	5.32		surface bucket	2008	33	Helena Höglander
+8/26/2008	B1	0	3.48		surface bucket	2008	35	Helena Höglander
+9/11/2008	B1	0	2.92		surface bucket	2008	37	Helena Höglander
+9/23/2008	B1	0	4.55		surface bucket	2008	39	Helena Höglander
+10/7/2008	B1	0	5.06		surface bucket	2008	41	Helena Höglander
+10/29/2008	B1	0	2.66		surface bucket	2008	44	Helena Höglander
+11/19/2008	B1	0	3.49		surface bucket	2008	47	Helena Höglander
+12/16/2008	B1	0	0.65		surface bucket	2008	51	Helena Höglander
+1/15/2009	B1	0	0.31		surface bucket	2009	3	Helena Höglander
+2/17/2009	B1	0	0.67		surface bucket	2009	8	Helena Höglander
+3/9/2009	B1	0	0.96		surface bucket	2009	11	Helena Höglander
+3/24/2009	B1	0	1.41		surface bucket	2009	13	Helena Höglander
+4/2/2009	B1	0	5.75		surface bucket	2009	14	Helena Höglander
+4/6/2009	B1	0	5.45		surface bucket	2009	15	Helena Höglander
+4/14/2009	B1	0	3.04		surface bucket	2009	16	Helena Höglander
+4/21/2009	B1	0	2.06		surface bucket	2009	17	Helena Höglander
+5/6/2009	B1	0	1.9		surface bucket	2009	19	Helena Höglander
+5/18/2009	B1	0	1.46		surface bucket	2009	21	Helena Höglander
+6/2/2009	B1	0	0.99		surface bucket	2009	23	Helena Höglander
+6/22/2009	B1	0	1.43		surface bucket	2009	26	Helena Höglander
+6/30/2009	B1	0	14.14		surface bucket	2009	27	Helena Höglander
+7/14/2009	B1	0	2.92	aceton	surface bucket	2009	29	Helena Höglander
+7/23/2009	B1	0	1.68		surface bucket	2009	30	Helena Höglander
+8/11/2009	B1	0	3.46		surface bucket	2009	33	Helena Höglander
+8/25/2009	B1	0	1.23		surface bucket	2009	35	Helena Höglander
+9/7/2009	B1	0	1.03		surface bucket	2009	37	Helena Höglander
+9/30/2009	B1	0	0.5		surface bucket	2009	40	Helena Höglander
+10/13/2009	B1	0	1.59		surface bucket	2009	42	Helena Höglander
+10/21/2009	B1	0	3.86		surface bucket	2009	43	Helena Höglander
+11/12/2009	B1	0	1.56		surface bucket	2009	46	Helena Höglander
+12/8/2009	B1	0	0.85		surface bucket	2009	50	Helena Höglander
+1/19/2010	B1	0	0.43		surface bucket	2010	4	Helena Höglander
+3/4/2010	B1	0	1.61		surface bucket	2010	10	Helena Höglander
+3/15/2010	B1	0	0.71		surface bucket	2010	12	Helena Höglander
+3/24/2010	B1	0	1.63		surface bucket	2010	13	Helena Höglander
+4/6/2010	B1	0	12.78		surface bucket	2010	15	Helena Höglander
+4/12/2010	B1	0	8.61		surface bucket	2010	16	Helena Höglander
+4/19/2010	B1	0	6.23		surface bucket	2010	17	Helena Höglander
+4/26/2010	B1	0	2.41		surface bucket	2010	18	Helena Höglander
+5/4/2010	B1	0	1.66		surface bucket	2010	19	Helena Höglander
+5/11/2010	B1	0	1.58		surface bucket	2010	20	Helena Höglander
+5/26/2010	B1	0	2.8		surface bucket	2010	22	Helena Höglander
+6/8/2010	B1	0	1.84		surface bucket	2010	24	Helena Höglander
+6/21/2010	B1	0	1.76		surface bucket	2010	26	Helena Höglander
+7/6/2010	B1	0	2.33		surface bucket	2010	28	Helena Höglander
+7/15/2010	B1	0	3.43		surface bucket	2010	29	Helena Höglander
+8/3/2010	B1	0	6.2		surface bucket	2010	32	Helena Höglander
+8/17/2010	B1	0	6.08		surface bucket	2010	34	Helena Höglander
+8/30/2010	B1	0	3.67		surface bucket	2010	36	Helena Höglander
+9/14/2010	B1	0	2.59		surface bucket	2010	38	Helena Höglander
+9/28/2010	B1	0	2.33		surface bucket	2010	40	Helena Höglander
+10/12/2010	B1	0	1.38		surface bucket	2010	42	Helena Höglander
+10/25/2010	B1	0	1.61		surface bucket	2010	44	Helena Höglander
+11/16/2010	B1	0	0.86		surface bucket	2010	47	Helena Höglander
+12/7/2010	B1	0	0.75		surface bucket	2010	50	Helena Höglander
+1/19/2011	B1	0	0.16		surface bucket	2011	4	Helena Höglander
+2/28/2011	B1	0	1.6		surface bucket	2011	10	Helena Höglander
+3/14/2011	B1	0	1.38		surface bucket	2011	12	Helena Höglander
+3/28/2011	B1	0	2.78		surface bucket	2011	14	Helena Höglander
+4/4/2011	B1	0	6.65		surface bucket	2011	15	Helena Höglander
+4/12/2011	B1	0	6.54		surface bucket	2011	16	Helena Höglander
+4/18/2011	B1	0	5.33		surface bucket	2011	17	Helena Höglander
+4/26/2011	B1	0	1.21		surface bucket	2011	18	Helena Höglander
+5/3/2011	B1	0	1.83		surface bucket	2011	19	Helena Höglander
+5/11/2011	B1	0	1.33		surface bucket	2011	20	Helena Höglander
+5/24/2011	B1	0	1.47		surface bucket	2011	22	Helena Höglander
+6/7/2011	B1	0	0.8		surface bucket	2011	24	Helena Höglander
+6/20/2011	B1	0	1.9		surface bucket	2011	26	Helena Höglander
+7/5/2011	B1	0	3.85		surface bucket	2011	28	Helena Höglander
+7/18/2011	B1	0	2.94		surface bucket	2011	30	Helena Höglander
+8/2/2011	B1	0	6.7		surface bucket	2011	32	Helena Höglander
+8/16/2011	B1	0	4.04		surface bucket	2011	34	Helena Höglander
+8/30/2011	B1	0	2.89		surface bucket	2011	36	Helena Höglander
+9/15/2011	B1	0	1.92		surface bucket	2011	38	Helena Höglander
+9/27/2011	B1	0	2.11		surface bucket	2011	40	Helena Höglander
+10/11/2011	B1	0	1.07		surface bucket	2011	42	Helena Höglander
+10/25/2011	B1	0	1.1		surface bucket	2011	44	Helena Höglander
+11/22/2011	B1	0	3.39		surface bucket	2011	48	Helena Höglander
+12/19/2011	B1	0	0.45		surface bucket	2011	52	Helena Höglander
+1/22/2003	H4	0	0.88		surface bucket	2003	4	Helena Höglander
+2/18/2003	H4	0	0.7		surface bucket	2003	8	Helena Höglander
+3/10/2003	H4	0	2.31		surface bucket	2003	11	Helena Höglander
+3/25/2003	H4	0	4.91		surface bucket	2003	13	Helena Höglander
+4/1/2003	H4	0	15.65		surface bucket	2003	14	Helena Höglander
+4/8/2003	H4	0	14.31		surface bucket	2003	15	Helena Höglander
+4/15/2003	H4	0	7.99		surface bucket	2003	16	Helena Höglander
+4/22/2003	H4	0	1.3		surface bucket	2003	17	Helena Höglander
+5/7/2003	H4	0	3.73		surface bucket	2003	19	Helena Höglander
+5/20/2003	H4	0	2.89		surface bucket	2003	21	Helena Höglander
+6/3/2003	H4	0	1.66		surface bucket	2003	23	Helena Höglander
+6/17/2003	H4	0	2.2		surface bucket	2003	25	Helena Höglander
+7/1/2003	H4	0	2.03		surface bucket	2003	27	Helena Höglander
+7/15/2003	H4	0	3.05		surface bucket	2003	29	Helena Höglander
+7/29/2003	H4	0	4.69		surface bucket	2003	31	Helena Höglander
+8/12/2003	H4	0	2.55		surface bucket	2003	33	Helena Höglander
+8/26/2003	H4	0	4.51		surface bucket	2003	35	Helena Höglander
+9/9/2003	H4	0	2.68		surface bucket	2003	37	Helena Höglander
+9/23/2003	H4	0	4.19		surface bucket	2003	39	Helena Höglander
+10/9/2003	H4	0	6.15		surface bucket	2003	41	Helena Höglander
+10/21/2003	H4	0	4.87		surface bucket	2003	43	Helena Höglander
+11/11/2003	H4	0	5.77		surface bucket	2003	46	Helena Höglander
+12/16/2003	H4	0	1.43		surface bucket	2003	51	Helena Höglander
+1/29/2004	H4	0	1.13		surface bucket	2004	5	Helena Höglander
+2/17/2004	H4	0	0.89		surface bucket	2004	8	Helena Höglander
+3/9/2004	H4	0	0.94		surface bucket	2004	11	Helena Höglander
+3/23/2004	H4	0	4.54		surface bucket	2004	13	Helena Höglander
+4/1/2004	H4	0	8.15		surface bucket	2004	14	Helena Höglander
+4/5/2004	H4	0	12.12		surface bucket	2004	15	Helena Höglander
+4/13/2004	H4	0	6.49		surface bucket	2004	16	Helena Höglander
+4/22/2004	H4	0	4.04		surface bucket	2004	17	Helena Höglander
+5/3/2004	H4	0	1.58		surface bucket	2004	19	Helena Höglander
+5/25/2004	H4	0	1.91		surface bucket	2004	22	Helena Höglander
+6/8/2004	H4	0	1.9		surface bucket	2004	24	Helena Höglander
+6/15/2004	H4	0	4.16		surface bucket	2004	25	Helena Höglander
+6/29/2004	H4	0	3.12		surface bucket	2004	27	Helena Höglander
+7/13/2004	H4	0	6.64		surface bucket	2004	29	Helena Höglander
+7/29/2004	H4	0	4.24		surface bucket	2004	31	Helena Höglander
+8/10/2004	H4	0	2		surface bucket	2004	33	Helena Höglander
+8/23/2004	H4	0	4		surface bucket	2004	35	Helena Höglander
+9/7/2004	H4	0	8.46		surface bucket	2004	37	Helena Höglander
+9/23/2004	H4	0	6.69		surface bucket	2004	39	Helena Höglander
+10/5/2004	H4	0	5.28		surface bucket	2004	41	Helena Höglander
+10/19/2004	H4	0	7.3		surface bucket	2004	43	Helena Höglander
+11/9/2004	H4	0	4.77		surface bucket	2004	46	Helena Höglander
+12/14/2004	H4	0	6.07		surface bucket	2004	51	Helena Höglander
+1/25/2005	H4	0	2.64		surface bucket	2005	5	Helena Höglander
+2/15/2005	H4	0	2.78		surface bucket	2005	8	Helena Höglander
+3/17/2005	H4	0	12.8		surface bucket	2005	12	Helena Höglander
+3/29/2005	H4	0	7.74		surface bucket	2005	14	Helena Höglander
+4/5/2005	H4	0	10.54		surface bucket	2005	15	Helena Höglander
+4/12/2005	H4	0	10.41		surface bucket	2005	16	Helena Höglander
+4/19/2005	H4	0	8.17		surface bucket	2005	17	Helena Höglander
+4/26/2005	H4	0	5.6		surface bucket	2005	18	Helena Höglander
+5/10/2005	H4	0	4.82		surface bucket	2005	20	Helena Höglander
+5/24/2005	H4	0	3.16		surface bucket	2005	22	Helena Höglander
+6/7/2005	H4	0	4.26		surface bucket	2005	24	Helena Höglander
+6/20/2005	H4	0	6.16		surface bucket	2005	26	Helena Höglander
+7/5/2005	H4	0	3.61		surface bucket	2005	28	Helena Höglander
+7/20/2005	H4	0	6.06		surface bucket	2005	30	Helena Höglander
+8/2/2005	H4	0	5.39		surface bucket	2005	32	Helena Höglander
+8/17/2005	H4	0	4.14		surface bucket	2005	34	Helena Höglander
+8/30/2005	H4	0	3.88		surface bucket	2005	36	Helena Höglander
+9/13/2005	H4	0	4.2		surface bucket	2005	38	Helena Höglander
+9/27/2005	H4	0	5.98		surface bucket	2005	40	Helena Höglander
+10/11/2005	H4	0	3.61		surface bucket	2005	42	Helena Höglander
+10/26/2005	H4	0	4.04		surface bucket	2005	44	Helena Höglander
+11/16/2005	H4	0	4.02		surface bucket	2005	47	Helena Höglander
+12/13/2005	H4	0	2.75		surface bucket	2005	51	Helena Höglander
+1/17/2006	H4	0	1.41		surface bucket	2006	3	Helena Höglander
+2/14/2006	H4	0	1.54		surface bucket	2006	7	Helena Höglander
+3/14/2006	H4	0	0.95		surface bucket	2006	11	Helena Höglander
+3/30/2006	H4	0	2.84		surface bucket	2006	13	Helena Höglander
+4/4/2006	H4	0	11.61		surface bucket	2006	14	Helena Höglander
+4/10/2006	H4	0	21.81		surface bucket	2006	15	Helena Höglander
+4/18/2006	H4	0	26.24		surface bucket	2006	16	Helena Höglander
+4/25/2006	H4	0	18.63		surface bucket	2006	17	Helena Höglander
+5/9/2006	H4	0	6.53		surface bucket	2006	19	Helena Höglander
+5/22/2006	H4	0	2.68		surface bucket	2006	21	Helena Höglander
+6/7/2006	H4	0	2.17		surface bucket	2006	23	Helena Höglander
+6/20/2006	H4	0	4.51		surface bucket	2006	25	Helena Höglander
+7/4/2006	H4	0	5.28		surface bucket	2006	27	Helena Höglander
+7/17/2006	H4	0	4.89		surface bucket	2006	29	Helena Höglander
+8/1/2006	H4	0	5.79		surface bucket	2006	31	Helena Höglander
+8/17/2006	H4	0	4.21		surface bucket	2006	33	Helena Höglander
+8/29/2006	H4	0	3.76		surface bucket	2006	35	Helena Höglander
+9/12/2006	H4	0	4.76		surface bucket	2006	37	Helena Höglander
+9/26/2006	H4	0	4.83		surface bucket	2006	39	Helena Höglander
+10/10/2006	H4	0	4.72		surface bucket	2006	41	Helena Höglander
+10/25/2006	H4	0	3.9		surface bucket	2006	43	Helena Höglander
+11/7/2006	H4	0	1.95		surface bucket	2006	45	Helena Höglander
+12/18/2006	H4	0	1.98		surface bucket	2006	51	Helena Höglander
+1/17/2007	H4	0	5.23		surface bucket	2007	3	Helena Höglander
+2/13/2007	H4	0	1.24		surface bucket	2007	7	Helena Höglander
+3/13/2007	H4	0	2.07		surface bucket	2007	11	Helena Höglander
+3/27/2007	H4	0	1.37		surface bucket	2007	13	Helena Höglander
+4/2/2007	H4	0	3.51		surface bucket	2007	14	Helena Höglander
+4/10/2007	H4	0	9.68		surface bucket	2007	15	Helena Höglander
+4/17/2007	H4	0	16.06		surface bucket	2007	16	Helena Höglander
+4/24/2007	H4	0	10.81		surface bucket	2007	17	Helena Höglander
+5/3/2007	H4	0	4.1		surface bucket	2007	18	Helena Höglander
+5/9/2007	H4	0	5.86		surface bucket	2007	19	Helena Höglander
+5/22/2007	H4	0	8.08		surface bucket	2007	21	Helena Höglander
+6/4/2007	H4	0	6.84		surface bucket	2007	23	Helena Höglander
+6/18/2007	H4	0	9.06		surface bucket	2007	25	Helena Höglander
+7/3/2007	H4	0	6.42		surface bucket	2007	27	Helena Höglander
+7/19/2007	H4	0	4.52		surface bucket	2007	29	Helena Höglander
+7/31/2007	H4	0	3.57		surface bucket	2007	31	Helena Höglander
+8/14/2007	H4	0	1.89		surface bucket	2007	33	Helena Höglander
+8/28/2007	H4	0	4.14		surface bucket	2007	35	Helena Höglander
+9/11/2007	H4	0	10.97		surface bucket	2007	37	Helena Höglander
+9/25/2007	H4	0	8.53		surface bucket	2007	39	Helena Höglander
+10/11/2007	H4	0	6.88		surface bucket	2007	41	Helena Höglander
+10/23/2007	H4	0	5.49		surface bucket	2007	43	Helena Höglander
+11/6/2007	H4	0	2.47		surface bucket	2007	45	Helena Höglander
+12/12/2007	H4	0	2.14		surface bucket	2007	50	Helena Höglander
+1/22/2008	H4	0	1.3		surface bucket	2008	4	Helena Höglander
+2/13/2008	H4	0	1.77		surface bucket	2008	7	Helena Höglander
+3/10/2008	H4	0	1.84		surface bucket	2008	11	Helena Höglander
+3/25/2008	H4	0	6.48		surface bucket	2008	13	Helena Höglander
+4/1/2008	H4	0	4.6		surface bucket	2008	14	Helena Höglander
+4/8/2008	H4	0	15.13		surface bucket	2008	15	Helena Höglander
+4/15/2008	H4	0	6.74		surface bucket	2008	16	Helena Höglander
+4/22/2008	H4	0	3.66		surface bucket	2008	17	Helena Höglander
+5/7/2008	H4	0	4.34		surface bucket	2008	19	Helena Höglander
+5/22/2008	H4	0	6.87		surface bucket	2008	21	Helena Höglander
+6/2/2008	H4	0	5.48		surface bucket	2008	23	Helena Höglander
+6/16/2008	H4	0	9.75		surface bucket	2008	25	Helena Höglander
+7/1/2008	H4	0	6.82		surface bucket	2008	27	Helena Höglander
+7/15/2008	H4	0	5.88		surface bucket	2008	29	Helena Höglander
+7/29/2008	H4	0	7.3		surface bucket	2008	31	Helena Höglander
+8/12/2008	H4	0	7.22		surface bucket	2008	33	Helena Höglander
+8/26/2008	H4	0	13.36		surface bucket	2008	35	Helena Höglander
+9/9/2008	H4	0	5.34		surface bucket	2008	37	Helena Höglander
+9/23/2008	H4	0	6.27		surface bucket	2008	39	Helena Höglander
+10/7/2008	H4	0	2.28		surface bucket	2008	41	Helena Höglander
+10/28/2008	H4	0	2.6		surface bucket	2008	44	Helena Höglander
+11/20/2008	H4	0	1.12		surface bucket	2008	47	Helena Höglander
+12/16/2008	H4	0	1.59		surface bucket	2008	51	Helena Höglander
+1/14/2009	H4	0	3.31		surface bucket	2009	3	Helena Höglander
+2/18/2009	H4	0	0.75		surface bucket	2009	8	Helena Höglander
+3/10/2009	H4	0	0.79		surface bucket	2009	11	Helena Höglander
+3/23/2009	H4	0	4.29		surface bucket	2009	13	Helena Höglander
+3/31/2009	H4	0	4.43		surface bucket	2009	14	Helena Höglander
+4/6/2009	H4	0	4.4		surface bucket	2009	15	Helena Höglander
+4/14/2009	H4	0	9.11		surface bucket	2009	16	Helena Höglander
+4/21/2009	H4	0	7.89		surface bucket	2009	17	Helena Höglander
+5/7/2009	H4	0	7.13		surface bucket	2009	19	Helena Höglander
+5/18/2009	H4	0	3.78		surface bucket	2009	21	Helena Höglander
+6/2/2009	H4	0	4.59		surface bucket	2009	23	Helena Höglander
+6/15/2009	H4	0	3.76		surface bucket	2009	25	Helena Höglander
+6/30/2009	H4	0	2.67		surface bucket	2009	27	Helena Höglander
+7/14/2009	H4	0	9.8		surface bucket	2009	29	Helena Höglander
+7/23/2009	H4	0	7.17		surface bucket	2009	30	Helena Höglander
+8/11/2009	H4	0	5.39		surface bucket	2009	33	Helena Höglander
+8/25/2009	H4	0	5.19		surface bucket	2009	35	Helena Höglander
+9/7/2009	H4	0	6.03		surface bucket	2009	37	Helena Höglander
+9/22/2009	H4	0	5.67		surface bucket	2009	39	Helena Höglander
+10/13/2009	H4	0	3.29		surface bucket	2009	42	Helena Höglander
+10/21/2009	H4	0	6.3		surface bucket	2009	43	Helena Höglander
+11/11/2009	H4	0	5.11		surface bucket	2009	46	Helena Höglander
+12/9/2009	H4	0	3.85		surface bucket	2009	50	Helena Höglander
+2/16/2010	H4	0	1.56		surface bucket	2010	8	Helena Höglander
+3/2/2010	H4	0	0.98		surface bucket	2010	10	Helena Höglander
+3/16/2010	H4	0	1.38		surface bucket	2010	12	Helena Höglander
+3/29/2010	H4	0	10.09		surface bucket	2010	14	Helena Höglander
+4/8/2010	H4	0	16.75		surface bucket	2010	15	Helena Höglander
+4/12/2010	H4	0	10.76		surface bucket	2010	16	Helena Höglander
+4/19/2010	H4	0	22.93		surface bucket	2010	17	Helena Höglander
+4/26/2010	H4	0	20.41		surface bucket	2010	18	Helena Höglander
+5/4/2010	H4	0	13.28		surface bucket	2010	19	Helena Höglander
+5/11/2010	H4	0	7.27		surface bucket	2010	20	Helena Höglander
+5/26/2010	H4	0	1.57		surface bucket	2010	22	Helena Höglander
+6/8/2010	H4	0	1.39		surface bucket	2010	24	Helena Höglander
+6/21/2010	H4	0	3.15		surface bucket	2010	26	Helena Höglander
+7/6/2010	H4	0	6.66		surface bucket	2010	28	Helena Höglander
+7/15/2010	H4	0	3.23		surface bucket	2010	29	Helena Höglander
+8/3/2010	H4	0	12.18		surface bucket	2010	32	Helena Höglander
+8/17/2010	H4	0	7.44		surface bucket	2010	34	Helena Höglander
+8/30/2010	H4	0	4.83		surface bucket	2010	36	Helena Höglander
+9/14/2010	H4	0	5.33		surface bucket	2010	38	Helena Höglander
+10/5/2010	H4	0	4.38		surface bucket	2010	41	Helena Höglander
+10/12/2010	H4	0	4.84		surface bucket	2010	42	Helena Höglander
+10/25/2010	H4	0	6.01		surface bucket	2010	44	Helena Höglander
+11/16/2010	H4	0	7.76		surface bucket	2010	47	Helena Höglander
+12/8/2010	H4	0	3.2		surface bucket	2010	50	Helena Höglander
+1/20/2011	H4	0	0.73		surface bucket	2011	4	Helena Höglander
+3/1/2011	H4	0	0.73		surface bucket	2011	10	Helena Höglander
+3/15/2011	H4	0	1.22		surface bucket	2011	12	Helena Höglander
+3/29/2011	H4	0	5.33		surface bucket	2011	14	Helena Höglander
+4/5/2011	H4	0	11.04		surface bucket	2011	15	Helena Höglander
+4/11/2011	H4	0	11.12		surface bucket	2011	16	Helena Höglander
+4/18/2011	H4	0	31.52		surface bucket	2011	17	Helena Höglander
+4/26/2011	H4	0	7.86		surface bucket	2011	18	Helena Höglander
+5/3/2011	H4	0	7.46		surface bucket	2011	19	Helena Höglander
+5/11/2011	H4	0	2.26		surface bucket	2011	20	Helena Höglander
+5/24/2011	H4	0	1.92		surface bucket	2011	22	Helena Höglander
+6/7/2011	H4	0	1.82		surface bucket	2011	24	Helena Höglander
+6/20/2011	H4	0	4.49		surface bucket	2011	26	Helena Höglander
+7/5/2011	H4	0	7.71		surface bucket	2011	28	Helena Höglander
+7/18/2011	H4	0	4.8		surface bucket	2011	30	Helena Höglander
+8/2/2011	H4	0	6.27		surface bucket	2011	32	Helena Höglander
+8/15/2011	H4	0	6.96		surface bucket	2011	34	Helena Höglander
+8/30/2011	H4	0	5.5		surface bucket	2011	36	Helena Höglander
+9/13/2011	H4	0	4.85		surface bucket	2011	38	Helena Höglander
+9/27/2011	H4	0	16.54		surface bucket	2011	40	Helena Höglander
+10/11/2011	H4	0	10.57		surface bucket	2011	42	Helena Höglander
+10/25/2011	H4	0	8.08		surface bucket	2011	44	Helena Höglander
+11/23/2011	H4	0	13.81		surface bucket	2011	48	Helena Höglander
+12/13/2011	H4	0	2.29		surface bucket	2011	51	Helena Höglander
