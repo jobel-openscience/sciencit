@@ -1,4 +1,4 @@
-SDATE	STATION	IDEPTH	Chl_a_ugl	Comment_txt	sampling_method	year	week	source
+SDATE	station	IDEPTH	Chl_a_ugl	Comment_txt	sampling_method	year	week	source
 1/22/2003	B1	0-20	0.21		hose	2003	4	Helena Höglander
 2/18/2003	B1	0-20	0.28		hose	2003	8	Helena Höglander
 3/10/2003	B1	0-20	1.47		hose	2003	11	Helena Höglander
